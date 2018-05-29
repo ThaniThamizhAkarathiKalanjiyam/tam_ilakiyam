@@ -6,4 +6,4 @@
 
 ## jayabarathan_wordpress_com
 
-This folder archeived for ilakiyath thedal from the site jayabarathan.wordpress.com till 2018 may 28. This will we available at the ilakiyath thedal Software. Our siceture சி. ஜெயபாரதன் B.E.(Hons) P.Eng (Nuclear) கனடா. 
+This folder archeived for ilakiyath thedal from the site jayabarathan.wordpress.com till 2018 may 28. Author சி. ஜெயபாரதன் B.E.(Hons) P.Eng (Nuclear) கனடா. 
