@@ -4,6 +4,4 @@
 
 #Folder Details
 
-## jayabarathan_wordpress_com
-
-This folder archeived for ilakiyath thedal from the site jayabarathan.wordpress.com till 2018 may 28. Author சி. ஜெயபாரதன் B.E.(Hons) P.Eng (Nuclear) கனடா. 
+1. jayabarathan.wordpress.com: This folder archeived [Click here](https://github.com/ThaniThamizhAkarathiKalanjiyam/tam_ilakiyam/tree/jayabarathan_wordpress_com) for ilakiyath thedal from the site jayabarathan.wordpress.com till 2018 may 28. Author சி. ஜெயபாரதன் B.E.(Hons) P.Eng (Nuclear) கனடா. 
