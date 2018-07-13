@@ -1,17 +1,17 @@
 # தனித்தமிழ்ஞாலக்களஞ்சியம்
 
-[TTAK] - (https://thanithamizhakarathikalanjiyam.github.io/) நிரல் திட்டங்களில் அடுத்த முனைப்பு. இதில் அணுவியல் கலைச்சொற்கள்  கொண்ட தேடு பொறி அனைவரது கணிணிகளிலும் இருக்க வேண்டும் என்பது அவா.
+[அஃக](https://thanithamizhakarathikalanjiyam.github.io/) நிரல் திட்டங்களில் அடுத்த முனைப்பு. இதில் அணுவியல் கலைச்சொற்கள்  கொண்ட தேடு பொறி அனைவரது கணிணிகளிலும் இருக்க வேண்டும் என்பது அவா.
 
-#This Folder Details
+## This Folder Details
 
-[This folder archeived] - (https://github.com/ThaniThamizhAkarathiKalanjiyam/tam_ilakiyam) for ilakiyath thedal from the site jayabarathan.wordpress.com till 2018 may 28. Author சி. ஜெயபாரதன் B.E.(Hons) P.Eng (Nuclear) கனடா. 
+[This folder archeived](https://github.com/ThaniThamizhAkarathiKalanjiyam/tam_ilakiyam) for ilakiyath thedal from the site jayabarathan.wordpress.com till 2018 may 28. Author சி. ஜெயபாரதன் B.E.(Hons) P.Eng (Nuclear) கனடா. 
 
-# அணுவியல் கலைச்சொற்கள் 
+## அணுவியல் கலைச்சொற்கள் 
 
-## jayabarathan.wordpress.com
+### jayabarathan.wordpress.com
 சுமார் 30000 அணுவியல் சார் சொற்களுக்கு ஜெயபாரதன் ஐயா அவர்கள் தனது வலைப்பூவில் தமிழ் கலைச்சொல்லைப் பயன் படுத்தி உள்ளார் அவற்றை இங்கு தொகுக்க உள்ளேன்.  
 
-_001.txt
+## _001.txt
   
 1. [Conventional Equipment] -  நீராவி ஓட்டும் பொதுத்துறைச் சாதனமான
 1. [Low Pressure Turbine Blades] -  டர்பைன் கீழ் நிலைச் சுழற் தட்டுக்கள்
@@ -94,7 +94,7 @@ _001.txt
 1. [Judgemental Errors] -  மூளைத் தவறுகள
 1. [Quality Controls] -  தரக் கட்டுப்பாடுகள்
 
-_002.txt
+## _002.txt
    
 
 1. [Earthquake Epicenter] - கடலடியில் நில நடுக்க மையம்
@@ -106,7 +106,7 @@ _002.txt
 1. [Tangshan, China] - தங்ஷான்
 1. [Ring of Fire] - தீ வளையத்தில்
 
-_003.txt
+## _003.txt
    
 
 1. [Radioiodine] - கதிர் ஐயோடின
