@@ -1,7 +1,7 @@
-# jayabarathan.wordpress.com till 2018 may 28. 
+# அணுவியல் கலைச்சொற்கள் 
+This folder archeived [Click here](https://github.com/ThaniThamizhAkarathiKalanjiyam/tam_ilakiyam/tree/jayabarathan_wordpress_com) for ilakiyath thedal from the site jayabarathan.wordpress.com till 2018 may 28. 
 ## Author:
 சி. ஜெயபாரதன் B.E.(Hons) P.Eng (Nuclear) கனடா. 
-## அணுவியல் கலைச்சொற்கள் 
 ### jayabarathan.wordpress.com
 சுமார் 30000 அணுவியல் சார் சொற்களுக்கு ஜெயபாரதன் ஐயா அவர்கள் தனது வலைப்பூவில் தமிழ் கலைச்சொல்லைப் பயன் படுத்தி உள்ளார் அவற்றை இங்கு தொகுக்க உள்ளேன்.  
 
