@@ -12,6 +12,12 @@
 
 ## அகராதிப் பட்டியல்
 
-1. jayabarathan.wordpress.com: This folder archeived [Click here](https://github.com/ThaniThamizhAkarathiKalanjiyam/tam_ilakiyam/tree/jayabarathan_wordpress_com) for ilakiyath thedal from the site jayabarathan.wordpress.com till 2018 may 28. Author சி. ஜெயபாரதன் B.E.(Hons) P.Eng (Nuclear) கனடா. 
+1. அணுவியல்: This folder archeived [Click here](https://github.com/ThaniThamizhAkarathiKalanjiyam/tam_ilakiyam/tree/jayabarathan_wordpress_com) for ilakiyath thedal from the site jayabarathan.wordpress.com till 2018 may 28. Author சி. ஜெயபாரதன் B.E.(Hons) P.Eng (Nuclear) கனடா. 
 
-2. 
+2. அறிவியல் அகராதி: பேரா. அ. கி. மூர்த்தி 
+
+3. அறிவியல் கலைச்சொல் களஞ்சியம் - மணவை முஸ்தபா 
+
+4. 2018 தொகுப்பு - 2018ம் ஆண்டு தொகுப்பு இங்கு இடம் பெறுகின்றன.
+
+5. உணவுகள் - திருத்தம் பொன். சரவணன்
