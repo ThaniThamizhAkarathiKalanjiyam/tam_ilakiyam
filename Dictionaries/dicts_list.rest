@@ -1,7 +1,7 @@
 தனித்தமிழ்ஞாலக்களஞ்சியம்
 ---
-
-[TTAK](https://thanithamizhakarathikalanjiyam.github.io/) நிரல் திட்டங்களில் அடுத்த முனைப்பு. இதில் தனிநபர் உருவாக்கிய தமிழ் அகராதிகள் தொகுக்கும் இடமாகும்.
+ 
+[TTAK](https://thanithamizhakarathikalanjiyam.github.io) நிரல் திட்டங்களில் அடுத்த முனைப்பு. இதில் தனிநபர் உருவாக்கிய தமிழ் அகராதிகள் தொகுக்கும் இடமாகும்.
 
 பல சொற்களஞ்சியங்கள் கொண்ட தேடு பொறி அனைவரது கணிணிகளிலும்/கைப்பேசிகளிலும் இருக்க வேண்டும் என்பது அவா.
 
@@ -23,7 +23,7 @@
 :கோப்பு: ttak.slob
 :கோப்பளவு: 47 MB
 :பதிப்பு: 47 MB
-:தரவிறக்க: http://ftp.halifax.rwth-aachen.de/aarddict/alswiki/
+:தரவிறக்க: [இங்கு உள்ளது](http://ftp.halifax.rwth-aachen.de/aarddict/alswiki/)
 :note: தனித்தமிழகராதிக்களஞ்சியம் 
 :note: Thanks to Isaiyini Yahoo Groups https://groups.yahoo.com/neo/groups/isaiyini/info for high speed mirroring
 ..
