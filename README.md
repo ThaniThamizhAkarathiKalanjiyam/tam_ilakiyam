@@ -10,6 +10,6 @@
 
 நிறுவல் முறை:
 ---
- 1. கீழே உள்ள [உணவுக்கலைச் சொற்கள் அகராதியை Download](https://github.com/ThaniThamizhAkarathiKalanjiyam/tam_ilakiyam/raw/master/pon_saravanan.slob) செய்யவும்
+ 1. முதலில் [உணவுக்கலைச் சொற்கள் அகராதியை Download](https://github.com/ThaniThamizhAkarathiKalanjiyam/tam_ilakiyam/raw/master/pon_saravanan.slob) செய்யவும்
  2. உங்கள் கைப்பேசியில் [அஃக ௨௮ - Download for Android](https://github.com/ThaniThamizhAkarathiKalanjiyam/win_ttak/raw/ttak_apk/ttak_287.apk)	என்ற Android செயலியை நிறுவிக் கொள்ளுங்கள்.
  3. பின்னர் கைப்பேசிச் செயலி-அஃக ௨௮-யைப் பயன்படுத்துங்கள். அகராதிக் களஞ்சியம் உங்கள் கைகளில் உள்ளது என நினைக்க மறக்காதீர்கள்.
