@@ -20,135 +20,26 @@
 
 தனித்த தமிழ் அகராதிகள்
 --
-:கோப்பு: ttak.slob
-:கோப்பளவு: 47 MB
-:பதிப்பு: 47 MB
-:தரவிறக்க: [இங்கு உள்ளது](http://ftp.halifax.rwth-aachen.de/aarddict/alswiki/)
-:note: தனித்தமிழகராதிக்களஞ்சியம் 
-:note: Thanks to Isaiyini Yahoo Groups https://groups.yahoo.com/neo/groups/isaiyini/info for high speed mirroring
-..
+- [ttak.slob தமிழ்-ஆங்கில முழு சொற்களஞ்சியம் 21 MB](https://github.com/ThaniThamizhAkarathiKalanjiyam/tam_ilakiyam/blob/master/Dictionaries/ttak.slob)
+- [pon_saravanan.slob  266B](https://github.com/ThaniThamizhAkarathiKalanjiyam/tam_ilakiyam/raw/master/Dictionaries/pon_saravanan.slob)
 
 
 Wiktionary
 --
-
-ஆங்கிலம்
-==========
-:கோப்பு: enwiktionary-20170108.slob
-:கோப்பளவு: 896839219
-:sha1: fcccf6fb829c0beeb29b2c247dce861e4e73ec33
-:தரவிறக்க: https://drive.google.com/open?id=0B8ENyWhpePB8Mzc0NjVJMlZ1bEk
-
-..
-
-:கோப்பு: enwiktionary_2018-04-14.slob
-:கோப்பளவு: http://7fw.de/download/wiki/en/enwiktionary_2018-04-14.size.txt
-:sha1: http://7fw.de/download/wiki/en/enwiktionary_2018-04-14.sha.txt
-:தரவிறக்க: http://7fw.de/download/wiki/en/
-
-எளிய ஆங்கிலம்
-==========
-:கோப்பு: simple-wiktionary-org-20180524.lzma2.slob
-:கோப்பளவு: 5.25 MiB
-:sha1: d0ea60374ddf2745beb9fb614fa6af51fc49129a
-:தரவிறக்க: https://drive.google.com/open?id=1QnmNaQSzKCCKQekPYm3ZsRuo4Rcsvg3V
-
-
-வங்காளம்
-==========
-:கோப்பு: bnwiktionary-20160526.lzma2.slob
-:கோப்பளவு: 0.6MB
-:sha1: 1b10406f4f3bf683120f9f471bf48f1d0dbeb524
-:தரவிறக்க: https://goo.gl/rEJ6yT
-
-குஜராத்தி
-==========
-:கோப்பு: guwiktionary-20160526.lzma2.slob
-:கோப்பளவு: 0.3MB
-:sha1: 158c4e53c82ed18748e3d7973a1ff69ceeefa790
-:தரவிறக்க: https://goo.gl/HRO7eb
-
-இந்தி
-==========
-:கோப்பு: hiwiktionary-20160526.lzma2.slob
-:கோப்பளவு: 30MB
-:sha1: 37162fc1f937bc8e01d8bdbcfa6b26efabdbfefa
-:தரவிறக்க: https://goo.gl/EsWJb4
-
-கன்னடம்
-==========
-:கோப்பு: knwiktionary-20160526.lzma2.slob
-:கோப்பளவு: 26MB
-:sha1: 03987082916b2d1e29b96174dedfbdf5b6ac86e8
-:தரவிறக்க: https://goo.gl/n6aI4i
-
-மலையாளம்
-==========
-:கோப்பு: mlwiktionary-20160526.lzma2.slob
-:கோப்பளவு: 16MB
-:sha1: 4ff6a4ec140b20e722a62d4c9e9d746e6ecbbd71
-:தரவிறக்க: https://goo.gl/9sME7W
-
-மராத்தி
-==========
-:கோப்பு: mrwiktionary-20160526.lzma2.slob
-:கோப்பளவு: 0.6MB
-:sha1: 46579f008147ebca1916f94885f237eab736bd16
-:தரவிறக்க: https://goo.gl/UFnl87
-
-நேபாளி
-==========
-:கோப்பு: newiktionary-20160526.lzma2.slob
-:கோப்பளவு: 3MB
-:sha1: fa61965233fb34b59262ae8e776cf69ee26e3747
-:தரவிறக்க: https://goo.gl/frwhqe
-
-ஓடியா
-==========
-:கோப்பு: orwiktionary-20160526.lzma2.slob
-:கோப்பளவு: 20MB
-:sha1: 6481d956b183ee0486fc9e0bc763dd5c011ab497
-:தரவிறக்க: https://goo.gl/eevj2z
-
-பஞ்சாபி
-==========
-:கோப்பு: pawiktionary-20160526.lzma2.slob
-:கோப்பளவு: 0.1MB
-:sha1: 2689f4c8148b1a4ef1e2489f2657bdee0cafed4c
-:தரவிறக்க: https://goo.gl/7IUjt2
-
-சமற்கிருதம்
-==========
-:கோப்பு: sawiktionary-20160526.lzma2.slob
-:கோப்பளவு: 52MB
-:sha1: 915a194ef4e45a7ade25154afa3db651d471b29a
-:தரவிறக்க: https://goo.gl/yuidre
-
-சிந்தி
-==========
-:கோப்பு: sdwiktionary-20160526.lzma2.slob
-:கோப்பளவு: 0.7MB
-:sha1: fc209551e6ddada681ae2189bad5fee16d4f7459
-:தரவிறக்க: https://goo.gl/U51mkp
-
-தமிழ்
-==========
-:கோப்பு: tawiktionary-20160526.lzma2.slob
-:கோப்பளவு: 42MB
-:sha1: b979166eb7cd5867190bccc651eefbcaf6a8fe10
-:தரவிறக்க: https://goo.gl/xw6L4S
-
-..
-..
-
-:கோப்பு: tawiktionary_2017-05-09.slob
-:கோப்பளவு: 51504846
-:sha1: c86f80f5287a87413560aa6953562e9677fd69df
-:தரவிறக்க: http://7fw.de/download/wiki/tawiktionary_2017-05-09.slob
-
-தெலுகு
-==========
-:கோப்பு: tewiktionary-20160526.lzma2.slob
-:கோப்பளவு: 18MB
-:sha1: a0f40e2e0c6e460f108489ff7d52361996227eeb
-:தரவிறக்க: https://goo.gl/32ctR9
+- [ஆங்கிலம்](https://drive.google.com/open?id=0B8ENyWhpePB8Mzc0NjVJMlZ1bEk)
+- [ஆங்கிலம்](http://7fw.de/download/wiki/en/enwiktionary_2018-04-14.sha.txt)
+- [எளிய ஆங்கிலம் 5.25 MiB](https://drive.google.com/open?id=1QnmNaQSzKCCKQekPYm3ZsRuo4Rcsvg3V)
+- [வங்காளம் 0.6MB](https://goo.gl/rEJ6yT)
+- [குஜராத்தி 0.3MB](https://goo.gl/HRO7eb)
+- [இந்தி 30MB](https://goo.gl/EsWJb4)
+- [கன்னடம் 26MB](https://goo.gl/n6aI4i)
+- [மலையாளம் 16MB](https://goo.gl/9sME7W)
+- [மராத்தி 0.6MB](https://goo.gl/UFnl87)
+- [நேபாளி 3MB](https://goo.gl/frwhqe)
+- [ஓடியா 20MB](https://goo.gl/eevj2z)
+- [பஞ்சாபி 0.1MB](https://goo.gl/7IUjt2)
+- [சமற்கிருதம் 52MB](https://goo.gl/yuidre)
+- [சிந்தி 0.7MB](https://goo.gl/U51mkp)
+- [எளிய தமிழ் 42MB](https://goo.gl/xw6L4S)
+- [தமிழ் 51504846](http://7fw.de/download/wiki/tawiktionary_2017-05-09.slob)
+- [தெலுகு 18MB](https://goo.gl/32ctR9)
