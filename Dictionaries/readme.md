@@ -20,8 +20,12 @@
 
 தனித்த தமிழ் அகராதிகள்
 --
-- [ttak.slob தமிழ்-ஆங்கில முழு சொற்களஞ்சியம் 21 MB](https://github.com/ThaniThamizhAkarathiKalanjiyam/tam_ilakiyam/blob/master/Dictionaries/ttak.slob)
-- [pon_saravanan.slob  266B](https://github.com/ThaniThamizhAkarathiKalanjiyam/tam_ilakiyam/raw/master/Dictionaries/pon_saravanan.slob)
+- [தமிழ்-ஆங்கில முழு சொற்களஞ்சியம் | ttak.slob | 21 MB | தமிழ் உலகம்](https://github.com/ThaniThamizhAkarathiKalanjiyam/tam_ilakiyam/blob/master/Dictionaries/ttak.slob)
+- [அறிவியல் அகராதி: பேரா. அ. கி. மூர்த்தி] (#)
+- [அறிவியல் கலைச்சொல் களஞ்சியம் - மணவை முஸ்தபா] (#)
+- [அணுவியல் கலைச்சொல் களஞ்சியம்: சி. ஜெயபாரதன் B.E.(Hons) P.Eng (Nuclear) கனடா] (#)
+- [உணவுக்கலைச்சொற்கள் | pon_saravanan.slob | 266B | திருத்தம் பொன். சரவணன்](https://github.com/ThaniThamizhAkarathiKalanjiyam/tam_ilakiyam/raw/master/Dictionaries/pon_saravanan.slob)
+
 
 
 Wiktionary
