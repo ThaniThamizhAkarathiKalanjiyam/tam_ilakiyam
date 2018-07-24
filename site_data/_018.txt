@@ -1,112 +1,29 @@
-﻿முதல் பயண வழிகாட்டி துணைக்கோள் [Navigational Satellite]
-இந்திய விண்வெளி ஆய்வக அதிபர் [Chairman ISRO]
-ராக்கெட் விஞ்ஞான மேதை (International Conference on Aerospace Science & Technologies)
-தனித்துவச் சோதனையை (Unique Bi-Static Experiment)
- நிலவைச் சுற்றும் இரண்டு விண்ணுளவிகள் (சந்திரயான்-1  & நாசாவின் LRO நிலவு விண்ணுளவுச் சுற்றி)
-தூரத்து உளவு செய்வதில் (Remote Sensing)
-  கடினமான அந்தச் சோதனையை (Bi-Static Experiment)
-ஸ்டீவர்ட் நாஸெட் (Srewart Nozette NASA Mini-RF Principal Investigator, LRO)
-எஸ், ராமகிருஷ்ணன், திட்ட இயக்குநர் விக்ரம் சாராபாய் விண்வெளி மையம், திருவனந்தபுரம் [நவம்பர் 9, 2008]
- செவ்வாய்க் கோள் சுற்றுளவி [Mars Orbiter]
- ஆந்திரப் பிரதேசத்தில் உள்ள ஸ்ரீஹரிக் கோட்டாவில்  [PSLC  Polar Satellite Launch Vehicle, Satish Dhawan Space Centre]
- அந்த வால்மீன் 2013 A1 [Siding Spring]
-[30,000 மைல்]
-  2013 நாணய மதிப்பீட்டில் 450 கோடி ரூபாய் நிதிச் செலவில் மங்கல்யான்  [Mangalyaan]
-மங்கல்யான் சுற்றுளவியின் எடை 30 பவுண்டு [14.5 கி.கிராம்]
- 2013 அக்டோபரில் ஏவப்படும் விண்ணுளவி, பூமியை விட்டு 2013 நவம்பர் 27 இல் நீங்கி 300 நாட்கள் [10 மாதம்]
- பயணம் செய்து செவ்வாய்க் கோளை நீள்வட்டத்தில் 300 மைல் நெருங்கிய தூரத்தில் [சிற்றாரம் : 500 கி.மீடர், நீளாரம் : 80,000 கி.மீ]
-[ஒரு நிறக் காமிரா,  ஓர் உட்சிவப்பு வெப்பப் படமெடுப்பு ஏற்பாடு, [One Thermal Infrared Imaging System]
-,  ஒரு லைமன்  ஆல்ஃபா ஒளிமானி,  [One Lyman-alpha Photometer]
-, ஒரு வெளிக்கோள நடுத்துவக் கலவை அளவி  [One Exospheric Neutral Composition Analyser]
-, ஒரு மீதேன் நுகர் உளவி  [One Methane Sensor]
-கடந்த சில ஆண்டுகளாக இந்தியா 35 வெளிநாட்டு துணைக் கோள்களை விண்வெளியில் ஏவி விட்டு  17.17 மில்லியன் டாலரும், 32.28 மில்லியன் ஈரோவும் [மொத்தம் : 58 மில்லியன் டாலர்]
-2009 செப்டம்பரில் சந்திரனை வெற்றிகரமாய்ச் சுற்றிய இந்தியா 2013 ஆண்டில்  சிரமமான செந்நிறக் கோளைச் சுற்றி வரப் பேராசைத் திட்ட மிட்டுள்ளது.   20/21 ஆம் நூற்றாண்டில் அமெரிக்கா, ரஷ்யா, ஈரோப்பிய நாடுகள், ஜப்பான், சைனா ஆகிய நாடுகள் செவ்வாய்க் கோளில் இறங்கி ஆராய்ந்தும்,இனிமேல்  ஆராய விரும்பியும் வருவது போல் இப்போது இந்தியாவும் இந்தப் பந்தயத்தில் இறங்கியுள்ளது.   அடுத்த ஆண்டு (2013)
- மனிதரற்ற ஓர் தனி விண்ணுளவியை 320 டன் எடை கொண்ட,  துருவத் துணைக்கோள் அனுப்பும் ராக்கெட்டில் (Indian Polar Satellite Launch Vehicle)
- (PSLV Rocket)
-  ஏவப்படும் திட்டம் தயாராகி அரசாங்கத்தின் அனுமதிக்கு இந்திய விண்வெளி ஆய்வகம் காத்திருக்கிறது.  பெயர் குறிப்பிட விரும்பாத வேறோர் அரசாங்க அதிகாரி செவ்வாய்த் திட்டத்தை நிறைவேற்ற சுமார்  90 மில்லியன் டாலர் (5 பில்லியன் ரூ)
-குற்றாரம் [300  mile Perigee]
-நீளாரம் [48000 mile Apogee]
-இந்திய விண்வெளி ஆய்வுத்துறை டாகர் விக்ரம் சாராபாய் தலைமையில் 1962 ஆண்டு முதல் இயங்க ஆரம்பித்தது.   அந்தப் பொறி நிபுணர்கள் வெற்றிகரமாகச் செய்து புகழ் பெற்றது 2009 இல் நிலவைச் சுற்றிவர அனுப்பிய சந்திரயான் -1 விண்ணுளவி.  தற்போது ஏற்பட்ட GSLV -III (Geosynchronous Satellite Launching Vehicle III)
-  இம்முயற்சியில் அமெரிக்கா, ரஷ்யா அடைந்த தோல்விகள் 1960 முதல் 2010 வரை (50 ஆண்டுகள்)
-GSLV -III ராக்கெட் நிலவுக்கு 4 டன் பளுவைத் தூக்கிச் செல்லும் தகுதி உடையது.   புவிச் சுற்றிணைப்பில் நிலைமாறும் சுழல்வீதியில்  (Geosynchronous Transfer Orbit)
-  ராக்கெட் எடை : 629 டன்,  உயரம் :  51 மீடர் (167 அடி)
-  அடுத்த 16 வினாடியில் ராக்கெட் வெடித்து விட்டு நிபுணருக்கும், பார்வையாளருக்கும் பெரிய அதிர்ச்சியைக் கொடுத்தது.  தூக்கிச் சென்ற துணைக்கோள் வங்காள விரிகுடாவில் வீசி எறியப்பட்டது.  ராக்கெட், துணைக்கோள் ஆகிய வற்றின் விலை மதிப்பான 39 மில்லியன் டாலர் (1.75 பில்லியன் ரூபாய்)
- ஒருசில நிமிடங்களில் கரும்புகையாய் எரிந்து மறைந்தது.   கடந்த 10 வருடங்களில் (2010 வரை)
- GSLV -III ராக்கெட் எஞ்சின் பூஸ்டர்கள் (Boosters : விரைவூக்கிகள்)
-தற்போது ஏற்பட்ட GSLV -III (Geosynchronous Satellite Launching Vehicle III)
-  பிரச்சனை எது வென்றால் கடந்த சில ஆண்டுகளாக இந்திய  அசுர சக்தி ஏவுகணைகள் சோதனைகளில் பழுது /தவறு நேர்ந்து தோல்வி அடைந்து வருவதே !    2010 ஆண்டு நாணய மதிப்பில் அண்டவெளித் திட்டங்களுக்கு அரசாங்க நிதி  ஒதுக்கு 1.1 மில்லியன் டாலர் (58 பில்லியன் ரூபாய்)
-.    அதில் GSLV -III முக்கட்ட ராக்கெட்விருத்திக்கு மட்டும் சுமார் 500 மில்லியன் டாலர்  நிதி ஒதுக்கு !   அந்த ராக்கெட் இணைப்பில் ரஷ்யாவின்  “பூஜிய பூரண உஷ்ண எஞ்சின்”  (Russian Cryogenic Engine)
-சந்திரயான் -1 தூக்கிச் செல்ல நடுத்தரம் உடைய  PSLV (Polar Satellite Launch Vehicle)
-  ராக்கெட் பயன் பட்டது.    இந்தியா PSLV (Polar Satellite Launch Vehicle)
-  ஆணைச் சிமிழ்  தளவுளவி இறக்கியையும்,  வாகனத்தையும் ஒன்றாய்ச் சேர்த்துக் கொள்ள வேண்டும்.   இந்தியாவுக்கு கிரியோஜெனிக் எஞ்சின் (Cryogenic Engine)
-2008 நவம்பர் 12 ஆம் தேதி சந்தரயான் -1 துணைக்கோள் திட்டமிட்ட 100 கி.மீடர் (60 மைல் உயரம்)
- துருவ வட்டவீதியில் (Polar Orbit)
- நிலவைச் சுற்றிவரத் துவங்கியது.  பூமியைக் கடப்புச் சுற்றுவீதியில் சுற்றிவந்த சந்திரயான் நவம்பர் 8 ஆம் தேதியன்று, நிலவை நெருங்கும் போது 440 நியூட்டன் திரவ எஞ்சின் இயங்கி வேகம் குறைக்கப்பட்டு (367 metre/Sec)
- நிலவின் ஈர்ப்பு மண்டலத்தில் கவரப்பட்டு முதன்முதல் நிலவைச் சுற்ற ஆரம்பித்தது.  சந்திர விண்வெளி யாத்திரையில் பூமியிலிருந்து மனிதர் மின் சமிக்கைகள் அனுப்பி விண்சிமிழைத் திசை திருப்பி வேகத்தைக் குறைத்து நிலவைச் சுற்ற வைப்பது மிகச் சிரமமான பொறியியல் நுணுக்க முயற்சி.  முதன்முதலில் அவ்விதம் செய்ய முயன்ற ரஷ்யா அமெரிக்கா, ஜப்பான் போன்ற நாடுகளின் துணைக்கோள்கள் சந்திரனைச் சுற்றாது சூரியனைச் சுற்றி வர நழுவிச் சென்றன.  இந்தியா முதல் முயற்சியிலேயே நிலவைச் சுற்ற வைத்தது பாராட்டத் தக்க ஒரு நிபுணத்துவம்.  இதற்கு முன்பு பன்முறைத் துணைக் கோள்களைப் “புவியிணைப்புச் சுற்றுவீதியில்” (Geosynchronous Orbit)
- இறக்கிப் பூமியைச் சுற்ற வைத்த கைப்பயிற்சியே அதற்கு உதவி செய்திருக்கிறது !  இந்த மகத்தான சிக்கலான விண்வெளி இயக்க நுணுக்கத்தைச் செய்து காட்டி இந்தியா தன்னை ஐந்தாவது சாதனை நாடாக உயர்த்தி இருக்கிறது.  ஏற்கனவே இவ்விதம் ரஷ்யா, அமெரிக்கா, ஜப்பான், சைனா தேசங்கள் செய்து காட்டியுள்ளன.  ஈசா எனப்படும் ஐரோப்பாவின் பதினேழு கூட்டு நாடுகளின் விண்வெளி ஆய்வகமும் [European Space Agency (ESA)
-]
-)
-இந்திய விண்வெளி ஆய்வகத்தின் (ISRO)
- அடுத்த இரண்டாவது சந்திராயன் (Chandrayaan -2)
- விண்ணுளவி ஏவிச் செல்வது தாமதமாகி வருகிறது.   அது சந்திரயான் -1 விட பல முறைகளில் வேறுபட்டது.  முதன்முதல் இந்திய விண்ணுளவி சந்திராயன்-2 அணுக்கரு எரிசக்தியைப் பயன்படுத்த ஏற்பாடுகள் நடந்து வருகின்றன.  விண்சிமிழ் தன்னுடன் ஒரு தளவுளவியையும், வாகனத்தையும் (A Lander & Rover)
- சுமந்து சென்று பாதுகாப்பாகச் சந்திர தளத்தில் இறக்கும்.  தளவுளவி நிலவின் தளத்தை ஆராயும் போது வாகனம் நிலவின் பரப்பில் ஊர்ந்து சென்று தகவல் தயாரிக்கும்.  தளவுளவி, வாகன (Lunar Lander & Rover)
-2015 ஆண்டுக்குள் இந்திய விண்வெளி ஆய்வுக் குழு இரண்டு அல்லது மூவர் இயக்கும் மனித விண்வெளிக் கப்பலைத் தயார் செய்யத் திட்டமிட்டுள்ளது.  அதற்காகும் நிதி மதிப்பு 242 மில்லியன் டாலர் (1240 கோடி ரூபாய்)
-நிலவில் பேரளவு மின்சக்தி உண்டாக்க உதவும் முக்கியமான ஹீலியம்-3 எரிவாயு பெருமளவில் கிடைக்கிறது,” என்று ராக்கெட் விஞ்ஞான மேதை டாக்டர் அப்துல் கலாம், ஜனவரி 26, 2008 இல் நடந்த அகில நாட்டு விண்வெளி விஞ்ஞானப் பொறியியல் பொதுக் கருத்தரங்கில் (International Conference on Aerospace Science & Technologies)
-British & Indian Satellites Fly to Space on Ariane-5 Rocket By: Stephan Clark [March 11, 2007]
-1A Stars & Planets By : Duncan John [2006]
-Astronomy Facts on File Dictionary (1986)
-4  Chennai Online News Service About Insat 4B Orbiting Satellite [March 14, 2007]
-The Perfect Launch of Ariane-5 Rocket with Insat 4B Satellite By The Hindu [March 12, 2007]
-Geostationary Satellite System [www.isro.org/rep20004/geostationary.htm]
-Indian Space Program: Accomplishments & Perspective [www.isro.org/space_science]
-Vikram Sarabhai Space Pioneer]
-10 Indian Space Research Organization (ISRO)
- [www.geocities.com/indian_space_story/isro.html]
-Abdul Kalam, Indian Airforce [www.geocities.com/siafdu/kalam1.html?200717]
-14 http://www.thinnai.com/?module=displaystory&story_id=40810231&format=html(இந்தியாவின் முதல் துணைக்கோள் சந்திரனை நோக்கிச் செல்கிறது)
-15 http://www.thinnai.com/?module=displaystory&story_id=40811131&format=html (இந்தியத் துணைக்கோள் சந்திரனைச் சுற்றுகிறது)
-16. http://www.thinnai.com/?module=displaystory&story_id=40811201&format=html (இந்திய மூவர்ணக் கொடிச் சந்திரனில் தடம் வைத்தது)
-Times Now  India’s First Unmanned Mission on Moon [Oct 22, 2008]
-BBC News : India Launches First Moon Mission [Oct 22, 2008]
-19 Cosmos Magazine  The Science of Everything – India Counts Down to Lunar Mission [Oct 21, 2008]
-20.   https://jayabarathan.wordpress.com/2008/05/24/fusion5/ [Fusion Power -1]
-21.   https://jayabarathan.wordpress.com/2007/09/29/nuclear-fusion-power/ [Fusion Power -2]
-23.  National Geographic -50 Years Exploring Space [November, 2008]
-24.  Chandrayaan-1 Enters Lunar Orbit Makes History [Nov 8, 2008]
-25.  Latest News Chandrayaan Descends into Lower Orbit [Nov 11, 2008]
-26  Chandrayaan-1 Successfully Reaches its Operational Lunar Orbit ISRO Repot [Nov 12, 2008]
-Chandrayaan -1 Reaches Final Lunar Orbit [Nov 13, 2008]
-Press Trust of India : Chandrayaan -1 Reaches Final Orbital Home [Nov 13, 2008]
-28 India Mulls Using Nuclear Energy to Power Chandrayaan -2 (August 8, 2009)
-29 The Search for Ice on the Moon Heats up By : Jeff Salton (August 2, 2009)
-30 Space Spin – LRO, Chandrayaan -1 Team up for Unique Search for Water Ice By : Nancy Atkinson (August 19, 2009)
-31 LRO & Chandrayaan -1 Perform in Tandem to Search for Ice on the Moon (August 22, 2009)
-32 Hindustan Times – Indo-Asian News Service, Bangalore “India’s Lunarcraft Hunts for Ice on Moon with NASA Lunar Reconnaissance Orbiter (August 21, 2009)
-Madhavan Nair Head of India Space Agency (June, 2009)
-34 Indian Space Research Organization (ISRO)
-(August 21, 2009)
-35.  http://en.wikipedia.org/wiki/Category:Indian_space_program  (May 16, 2012)
-36.  http://www.time.com/time/printout/0,8816,2040085,00.html(December 29, 2010)
-38.  http://www.isro.org/gslv-d3/gslv-d3.aspx  (Geosynchronous Satellite Launch Vehicle (GSLV)
-39.  Asia Times – India’s Space Program Takes a Hit By : Peter Brown (May 1, 2012)
-40.  Space Travel : New Moon for India  By : Morris Jones, Sydney Australia (SPX)
-  )
-May 28, 2012)
-41.  http://www.bharat-rakshak.com/MONITOR/Space%20Essay/entry3.htm  (Indian Space Program -2020)
-41 (a)
- http://indrus.in/articles/2012/03/30/mars_missions_race_india_takes_lead_15318.html (Russia & India Report)
- (March 30, 2012)
- [First published in The Voice of Russia]
-42.  Mars Daily : NASA’s Mars Rover Curiosity Two Weeks from Landing, Washington (AFP)
-  (July 16, 2012)
-43.  Mars Daily : Successes and Failures in the Past Mars Attempts, Washington (AFP)
-  August 1, 2012)
-44.  Mars Daily : India Set to Launch Mars Mission in 2013, Bangalore, India  (August 2, 2012)
- http://antariksh-space.blogspot.ca/2013/01/isro-mars-mission.html  [January 4, 2013]
- http://forum.nasaspaceflight.com/index.php?topic=29440.45  [NASA s Space flight.com Website]
-  http://www.planetary.org/blogs/emily-lakdawalla/2013/01040907-isro-mars-update.html [Jan 4, 2013]
- http://www.planetary.org/blogs/emily-lakdawalla/2013/04011229-isros-mars-mission-now.html  ISRO’s Mars mission now undergoing assembly and testing; NASA, ISRO agree to future space science cooperation  [January 4, 2013]
- http://www.ibtimes.co.in/articles/458615/20130418/mars-mission-isro-orbiter-launch-comet-science.htm  [India s Mars Mission: No Delay in Orbiter Launch, Says ISRO Chief]
-  [April 18, 2013]
-Jayabarathan (jayabarat@tnt21.com)
- (May 11, 2013)
+﻿Navigational Satellite-முதல் பயண வழிகாட்டி துணைக்கோள் 
+Chairman ISRO-இந்திய விண்வெளி ஆய்வக அதிபர் 
+International Conference on Aerospace Science & Technologies-ராக்கெட் விஞ்ஞான மேதை 
+Unique Bi Static Experiment-தனித்துவச் சோதனையை 
+சந்திரயான் 1  & நாசாவின் LRO நிலவு விண்ணுளவுச் சுற்றி-நிலவைச் சுற்றும் இரண்டு விண்ணுளவிகள் 
+Remote Sensing-தூரத்து உளவு செய்வதில் 
+Bi Static Experiment-கடினமான அந்தச் சோதனையை 
+Srewart Nozette NASA Mini RF Principal Investigator, LRO-ஸ்டீவர்ட் நாஸெட் 
+Siding Spring-அந்த வால்மீன் 2013 A1 
+Mangalyaan-2013 நாணய மதிப்பீட்டில் 450 கோடி ரூபாய் நிதிச் செலவில் மங்கல்யான் 
+One Thermal Infrared Imaging System-ஒரு நிறக் காமிரா,  ஓர் உட்சிவப்பு வெப்பப் படமெடுப்பு ஏற்பாடு, 
+One Lyman alpha Photometer-லைமன் ஆல்ஃபா ஒளிமானி
+One Exospheric Neutral Composition Analyser-வெளிக்கோள நடுத்துவக் கலவை அளவி  
+One Methane Sensor-மீதேன் நுகர் உளவி  
+Indian Polar Satellite Launch Vehicle-ஓர் தனி விண்ணுளவியை 320 டன் எடை கொண்ட,  துருவத் துணைக்கோள் அனுப்பும் ராக்கெட்டில் 
+300  mile Perigee-குற்றாரம் 
+48000 mile Apogee-நீளாரம் 
+Geosynchronous Satellite Launching Vehicle III-GSLV III 
+Boosters : விரைவூக்கிகள்
+Polar Satellite Launch Vehicle-PSLV 
+Polar Satellite Launch Vehicle-இந்தியா PSLV 
+Cryogenic Engine-கிரியோஜெனிக் எஞ்சின் 
+Polar Orbit-துருவ வட்டவீதியில் 
+Geosynchronous Orbit-புவியிணைப்புச் சுற்றுவீதியில்” 
+European Space Agency ESA-ஈசா எனப்படும் ஐரோப்பாவின் பதினேழு கூட்டு நாடுகளின் விண்வெளி ஆய்வகமும் 
+ISRO-இந்திய விண்வெளி ஆய்வகத்தின் 
+Chandrayaan 2-இரண்டாவது சந்திராயன் 
+A Lander & Rover-விண்சிமிழ் தன்னுடன் ஒரு தளவுளவியையும், வாகனத்தையும் 
+Lunar Lander & Rover-தளவுளவி, வாகன 

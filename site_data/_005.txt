@@ -1,14 +1,14 @@
-﻿டோஷியாகி ஸகாயி [Head Engineering Group Tokyo Electric s Nuclear Plants]
-மிஸியோ இஷிகாவா [President Japan Nuclear Technology Institute]
-மொகமது எல்பராடி [Mohamed ElBaradei, IAEA Director General]
-நேர்முறை, எதிர்முறை விளைவுப் பாடங்களைக் [Positive & Negative Lessons]
-கோப்-ஒஸாகா நிலநடுக்கத்தில் கூட [Kobe-Osaka Earthquake]
-தளத்துடிப்பு வேக வீதம்” [Ground Acceleration]
-தீவிர நில அதிர்ச்சித் தளத்தட்டின் (Active Seismic Fault)
-நடுக்கமைய மாகக் [Epicentre]
-வியன்னாவில் உள்ள அகில நாட்டு அணுசக்திப் பேரவை [International Atomic Energy Agency, (IAEA) Vienna Austria]
-அணுமின் உலை ஆட்சி அறை [Control Room Panels]
-அச்சிறிய அளவுக் கசிவுக் கதிரியக்கத் திரவக் கழிவு பொதுநலச் சூழ்வெளிப் பாதுகாப்பு எல்லையைத் [Limits for Public Health & Environmental Safety]
-நிலநடுக்க அதிர்ச்சியால் உண்டான உலைக்கலச் சாதன அழுத்தங்கள் [Physical Stresses of Pressure Vessel & other Components]
-நிலநடுக்கத் தீங்கு மீளாய்வு” (Seismic Hazard Re-evaluation)
-ஜப்பான் அணுத்துறைப் பாதுகாப்பு தலையகத்துக்கு [Japan Nuclear Safety Commission (JNSC)]
+﻿Head Engineering Group Tokyo Electric s Nuclear Plants-டோஷியாகி ஸகாயி 
+President Japan Nuclear Technology Institute-மிஸியோ இஷிகாவா 
+Mohamed ElBaradei, IAEA Director General-மொகமது எல்பராடி 
+Positive & Negative Lessons-நேர்முறை, எதிர்முறை விளைவுப் பாடங்களைக் 
+Kobe Osaka Earthquake-கோப் ஒஸாகா நிலநடுக்கத்தில் கூட 
+Ground Acceleration-தளத்துடிப்பு வேக வீதம்” 
+Active Seismic Fault-தீவிர நில அதிர்ச்சித் தளத்தட்டின் 
+Epicentre-நடுக்கமைய மாகக் 
+International Atomic Energy Agency, (IAEA) Vienna Austria-வியன்னாவில் உள்ள அகில நாட்டு அணுசக்திப் பேரவை 
+Control Room Panels-அணுமின் உலை ஆட்சி அறை 
+Limits for Public Health & Environmental Safety-அச்சிறிய அளவுக் கசிவுக் கதிரியக்கத் திரவக் கழிவு பொதுநலச் சூழ்வெளிப் பாதுகாப்பு எல்லையைத் 
+Physical Stresses of Pressure Vessel & other Components-நிலநடுக்க அதிர்ச்சியால் உண்டான உலைக்கலச் சாதன அழுத்தங்கள் 
+Seismic Hazard Re evaluation-நிலநடுக்கத் தீங்கு மீளாய்வு” 
+Japan Nuclear Safety Commission (JNSC)-ஜப்பான் அணுத்துறைப் பாதுகாப்பு தலையகத்துக்கு 

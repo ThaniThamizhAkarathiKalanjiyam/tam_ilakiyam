@@ -1,25 +1,25 @@
-﻿மில்லர் & ஆர்ஜெல் (Miller & Orgel in their Book The Origin of Life on Earth -1974)
-பூர்வாங்க உயிரினம் (Primitive Life)
-அறிவு விருத்தியடைந்த ஓர் உயிர்ப்பிறவி (Intelligent Life)
-வேறு அண்டவெளிக் கோள் உயிரினத்துடன் (Extraterrestrial Life)
-விண்மீன் பான்-ஸ்டார் [Pan-STARRS]
-வட கோளப் பகுதில் [Western Hemisphere]
-ஜெட் உந்துசக்தி ஆய்வகம் [Jet Propulsion Laboratory]
-வான உயிரியல் (Astrobiology)
-பௌதிகம், இரசாயனம், உயிரியல், வானியல் (Physics, Organic & Inorganic Chemistry, Biology & Astronomy)
-ஆரம்ப காலங்களில் தன்னினம் பெருக்கும் சிக்கலான செல்கள்  (Self-Replicating Complex Cells)
-காற்றில் நீர்மை (Moisture)
-கடல்நீரின் pH அளவு (pH  > 0-14 Scale Measurement of Water Acidity/Alkalinity)
-உயிரின இரசாயனத்தின் (Biochemistry)
-இரசாயன இயக்க விளைவு (Chemical Phenomenon)
-பிறவித் தாதுக்களான டியென்னே & ஆரென்னே   (Genetic Materials DNA & RNA)
-டியென்னே என்பது மூன்று மூலக்கூட்டுகள் (Nucleic Acid Bases +Sugars +Phosphates)
-இரட்டை நெளிவு  (Double Helix)
-அமெரிக்க இரசாயன விஞ்ஞானிகள் ஹரால்டு யுரே & ஸ்டான்லி மில்லர் [Harold Urey (1893-1981) Stanley Miller (1930-)]
-அமினோ அமிலம் (Amino Acid  > Water-soluble Organic Molecule with Carbon, Oxygen, Hydrogen & Nitrogen containing both Amino Group NH2 & COOH)
-விண்பாறைகளிலும், வால்மீன்களிலும் (Asteroids & Comets)
-1969 இல் ஆஸ்திரேலியாவில் விழுந்த மர்சிஸன் விண்கல்லில் (Murchison Meteorite)
-கார்பன் கூட்டுப் பொருளும் இரண்டுவித அமினோ அமிலமும் (A Carbonaceous Chondrite & Two Types of Amino Acids)
-வளர்ச்சிக்கும் இயக்கத்துக்கும் வேண்டிய உயிரினத்தின் இரசாயன வினையியல் (Metabolism)
-சந்ததி விருத்திக்கு வேண்டிய உயிரினப் புணரியல் (Reproductive Life Process)
-உஷ்ணம், அழுத்தம், வெப்பக் கட்டுப்பாடு போன்ற சூழ்வெளி வாயு இயக்கவியல் (Evolution through Interaction with the Environment)
+﻿Miller & Orgel in their Book The Origin of Life on Earth 1974-மில்லர் & ஆர்ஜெல் 
+Primitive Life-பூர்வாங்க உயிரினம் 
+Intelligent Life-அறிவு விருத்தியடைந்த ஓர் உயிர்ப்பிறவி 
+Extraterrestrial Life-வேறு அண்டவெளிக் கோள் உயிரினத்துடன் 
+Pan STARRS-விண்மீன் பான் ஸ்டார் 
+Western Hemisphere-வட கோளப் பகுதில் 
+Jet Propulsion Laboratory-ஜெட் உந்துசக்தி ஆய்வகம் 
+Astrobiology-வான உயிரியல் 
+Physics, Organic & Inorganic Chemistry, Biology & Astronomy-பௌதிகம், இரசாயனம், உயிரியல், வானியல் 
+Self Replicating Complex Cells-ஆரம்ப காலங்களில் தன்னினம் பெருக்கும் சிக்கலான செல்கள் 
+Moisture-காற்றில் நீர்மை 
+pH > 0 14 Scale Measurement of Water Acidity/Alkalinity-கடல்நீரின் pH அளவு 
+Biochemistry-உயிரின இரசாயனத்தின் 
+Chemical Phenomenon-இரசாயன இயக்க விளைவு 
+Genetic Materials DNA & RNA-பிறவித் தாதுக்களான டியென்னே & ஆரென்னே   
+Nucleic Acid Bases +Sugars +Phosphates-டியென்னே என்பது மூன்று மூலக்கூட்டுகள் 
+Double Helix-இரட்டை நெளிவு 
+Harold Urey 1893 1981- Stanley Miller 1930 -அமெரிக்க இரசாயன விஞ்ஞானிகள் ஹரால்டு யுரே & ஸ்டான்லி மில்லர் 
+Amino Acid > Water soluble Organic Molecule with Carbon, Oxygen, Hydrogen & Nitrogen containing both Amino Group NH2 & COOH-அமினோ அமிலம் 
+Asteroids & Comets-விண்பாறைகளிலும், வால்மீன்களிலும் 
+Murchison Meteorite-1969 இல் ஆஸ்திரேலியாவில் விழுந்த மர்சிஸன் விண்கல்லில் 
+A Carbonaceous Chondrite & Two Types of Amino Acids-கார்பன் கூட்டுப் பொருளும் இரண்டுவித அமினோ அமிலமும் 
+Metabolism-வளர்ச்சிக்கும் இயக்கத்துக்கும் வேண்டிய உயிரினத்தின் இரசாயன வினையியல் 
+Reproductive Life Process-சந்ததி விருத்திக்கு வேண்டிய உயிரினப் புணரியல் 
+Evolution through Interaction with the Environment-உஷ்ணம், அழுத்தம், வெப்பக் கட்டுப்பாடு போன்ற சூழ்வெளி வாயு இயக்கவியல் 

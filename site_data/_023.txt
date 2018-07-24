@@ -1,43 +1,42 @@
-﻿நாசாவின் மேவன் [MAVEN]
-ராஜர் எல்லி [Professor Planetary Science Laboratory, University of Arizona, MAVEN Spaceprobe Team]
-ஸைடிங் ஸ்பிரிங் [Comet Siding Spring (C/2103 A1]
-நெடுங்கீழ்ப் பனி உறைமூட்டத்தில் [Deep Freeze]
-முடிவில்  மூல அரங்கமான ஓர்ட் முகில் [Oort Cloud Region]
-வால்மீன் ஸைடிங் ஸ்பிரிங் [Comet Siding Spring]
-வெண்மைத் தூள் நிரம்பிய வால்மீன் கரு [Comet Core]
-வால்மீன் பிறப்பரங்கமான ஓர்ட் முகிலிலிருந்து  [Oort Cloud]
-வேகத்தில் வெளியேறும் வால்மீன் தூசிப்பரல் தாக்குதலால் [Mars Reconnaissance Orbiter (MRO)
-தற்போது செந்நிறக்கோளைச் சுற்றிக் கொண்டிருக்கும் நாசா [Mars Oddyssey (MO)]
-நாசாவின் இரண்டு தளவுளவிகள் [Rovers : Curiosity & Opportunity]
-ஜொஹானஸ் கெப்ளர் (German Astronomer Johannes Kepler)
-ஆர்க்டிக் கடலில் உள்ள ஸ்வால்பார்டு தீவில் [Svalbard Island]
-நுணுக்க உயிரியல் ஊறணி ‘ [Microbiological Oasis]
-1996 ஆம் ஆண்டு அண்டார்க்டிக்கில் கண்டெடுத்த செவ்வாய்க் கோளின் விண்கல்லைப் [Meteorite]
-காந்த உலோகப் பாறைப் பளிங்கு [Magnetite Crystals]
-பாறை அடுக்குகள் செவ்வாய்க் கோளின் வரலாற்றைக் கூறும் பட்டைக் குறிப்பதிப்புகள் [Barcodes]
-ஜான் கிராட்ஸிங்கர் [John Grotzinger, Science Team Member நாசா M.I.T.]
-மேவன்” காலநிலை அறிவிப்பு விண்ணுளவியை (Mars Climate Mission -2)
-மேவன்” (Maven – Mars Atmosphere & Volatile Environment Probe)
-காலநிலை உளவ ஏவப்பட்ட விண்ணுளவி -1 (Mars Climate Orbiter -1)
-மேவன் விண்ணுளவி பரிதி உமிழ்ந்திடும் மின்னேறிய துகள்களின் (Solar Charged Particles)
-பரிதியின் தீவிரப் புயல் (Solar Wind)
-ஆவிக் கிளம்பிகள் (Volatiles)
-கோளின் குடிவசிப்புத் தன்மை (Planetary Habitability)
-செவ்வாய்க் கோளின் மேல் மண்டல வாயுச் சூழ்வெளியின் (Upper Atmosphere)
-மின்னியல் கோளம் (Ionosphere)
-பரிதிப் புயலுடன் அவற்றின் இயக்கப்பாட்டு மோதல் விளைவுகளை (Interactions with Solar Wind)
-விண்வெளிக்குக் கசியும் அயனிகள் (Ions)
-முடக்குகள் (Neutrals)
-வாயுக்களின் நிலையான ஏகமூலங்களின் வீதத்தைக் (Ratio of Stable Isotopes)
-உந்துக் கணைகளை (Thruster Boosters)
-நாசா முன்னேவிய இரண்டு விண்ணுளவிகள் (Mars Reconnaissance Orbiter & Mars Odyssey Spacecraft)
-தளவியல் இரசாயனத்தை” (Geochemistry)
-செவ்வாய் விஞ்ஞானத் தள ஆய்வி” (Mars Science Laboratory MSL)
-எக்ஸோ-மார்ஸ் வாகனத்துடன்” (ExoMars Rover)
-அயனிக் கோளம் (Ionosphere)
-காற்று நீர்மை (Humidity)
-50% தோல்வி முறிவில் (50% Failure Rate)
-செவ்வாய்க் காலநிலை விண்ணுளவி” (Mars Climate Orbiter)
-செவ்வாய்த் துருவ உளவி” (Mars Polar Lander)
-செவ்வாய் 2001 தளவுளவித்” (Mars Surveyor 2001 Lander)
-பீனிக்ஸ்” (Phoenix)
+﻿MAVEN-நாசாவின் மேவன் 
+Comet Siding Spring C/2103 A1-ஸைடிங் ஸ்பிரிங் 
+Deep Freeze-நெடுங்கீழ்ப் பனி உறைமூட்டத்தில் 
+Oort Cloud Region-முடிவில்  மூல அரங்கமான ஓர்ட் முகில் 
+Comet Siding Spring-வால்மீன் ஸைடிங் ஸ்பிரிங் 
+Comet Core-வெண்மைத் தூள் நிரம்பிய வால்மீன் கரு 
+Oort Cloud-வால்மீன் பிறப்பரங்கமான ஓர்ட் முகிலிலிருந்து  
+Mars Reconnaissance Orbiter MRO-வேகத்தில் வெளியேறும் வால்மீன் தூசிப்பரல் தாக்குதலால் 
+Mars Oddyssey MO-தற்போது செந்நிறக்கோளைச் சுற்றிக் கொண்டிருக்கும் நாசா 
+Rovers : Curiosity & Opportunity-நாசாவின் இரண்டு தளவுளவிகள் 
+German Astronomer Johannes Kepler-ஜொஹானஸ் கெப்ளர் 
+Svalbard Island-ஆர்க்டிக் கடலில் உள்ள ஸ்வால்பார்டு தீவில் 
+Microbiological Oasis-நுணுக்க உயிரியல் ஊறணி ‘ 
+Meteorite-1996 ஆம் ஆண்டு அண்டார்க்டிக்கில் கண்டெடுத்த செவ்வாய்க் கோளின் விண்கல்லைப் 
+Magnetite Crystals-காந்த உலோகப் பாறைப் பளிங்கு 
+Barcodes-பாறை அடுக்குகள் செவ்வாய்க் கோளின் வரலாற்றைக் கூறும் பட்டைக் குறிப்பதிப்புகள் 
+John Grotzinger, Science Team Member நாசா M.I.T.-ஜான் கிராட்ஸிங்கர் 
+Mars Climate Mission 2-மேவன்” காலநிலை அறிவிப்பு விண்ணுளவியை 
+Maven – Mars Atmosphere & Volatile Environment Probe-மேவன்” 
+Mars Climate Orbiter 1-காலநிலை உளவ ஏவப்பட்ட விண்ணுளவி 1 
+Solar Charged Particles-மேவன் விண்ணுளவி பரிதி உமிழ்ந்திடும் மின்னேறிய துகள்களின் 
+Solar Wind-பரிதியின் தீவிரப் புயல் 
+Volatiles-ஆவிக் கிளம்பிகள் 
+Planetary Habitability-கோளின் குடிவசிப்புத் தன்மை 
+Upper Atmosphere-செவ்வாய்க் கோளின் மேல் மண்டல வாயுச் சூழ்வெளியின் 
+Ionosphere-மின்னியல் கோளம் 
+Interactions with Solar Wind-பரிதிப் புயலுடன் அவற்றின் இயக்கப்பாட்டு மோதல் விளைவுகளை 
+Ions-விண்வெளிக்குக் கசியும் அயனிகள் 
+Neutrals-முடக்குகள் 
+Ratio of Stable Isotopes-வாயுக்களின் நிலையான ஏகமூலங்களின் வீதத்தைக் 
+Thruster Boosters-உந்துக் கணைகளை 
+Mars Reconnaissance Orbiter & Mars Odyssey Spacecraft-நாசா முன்னேவிய இரண்டு விண்ணுளவிகள் 
+Geochemistry-தளவியல் இரசாயனத்தை” 
+Mars Science Laboratory MSL-செவ்வாய் விஞ்ஞானத் தள ஆய்வி” 
+ExoMars Rover-எக்ஸோ மார்ஸ் வாகனத்துடன்” 
+Ionosphere-அயனிக் கோளம் 
+Humidity-காற்று நீர்மை 
+50% Failure Rate-50% தோல்வி முறிவில் 
+Mars Climate Orbiter-செவ்வாய்க் காலநிலை விண்ணுளவி” 
+Mars Polar Lander-செவ்வாய்த் துருவ உளவி” 
+Mars Surveyor 2001 Lander-செவ்வாய் 2001 தளவுளவித்” 
+Phoenix-பீனிக்ஸ்” 

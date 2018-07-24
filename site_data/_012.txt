@@ -1,22 +1,22 @@
-﻿தளப் பாறைகள் (Gale Crater)
-படிமானப் பாறைகள்  (Sediment Rocks)
-ஜாய் கிரிஸ்ப் (Mars Science Lab Dy Project Scientist NASA)
-செவ்வாய்த் தளவுளவி இறங்கப்ப போகும் மையக் கேல் ஆழ்பள்ளப் பீடம்  (Mound at the center of Gale Crater)
-அமெரிக்க கிராண்ட் கெனியன் (Grand Canyon)
-ஜேம்ஸ் ஸிம்பல்மன் (பூதளவியல் நிபுணர்  National Air & Space Museum)
-உச்சத் தரமான தொலை அளப்பு மூலம் (High Quality Telemetry)
-தளவூர்தி (செவ்வாய் ஈர்ப்பில்)
-ஃபியூக் லி (Mission Mars Exploration Program at JPL)
-மைக்கேல் வாட்கின்ஸ் (Mission Manager, NASA Jet Propulsion Lab)
-ஜொஹானஸ் கெப்ளர் [German Astronomer Johannes Kepler]
-அமெரிக்க விண்வெளி விமானி பஸ் ஆல்டிரின் (Buzz Aldrin)
-வில்லியம் பாயின்டன், [William Boynton]
-செவ்வாய்க் கோள் விஞ்ஞான ஆய்வு ஊர்தி” (Mars Science Laboratory, MSL Curiosity)
-கேல் ஆழ்பள்ளம் (Gale Crater)
-பருவ நிலை (Climate)
-செவ்வாய்க் கோளின் தளவியல் (Geology)
-காற்றடைத்த பந்துக் கொத்தில் (Airbag Cushion Balls)
-எதிரியக்கு ராக்கெட் (Retro-Rocket)
-வான் கீழிறக்கி” (Sky Crane)
-உயிரியல் பண்பாடுகளை (Biological Processes)
-பல்துறைப் பயண கதிரியக்க உலோகத்தின் மின்கலம் (Plutonium-238 Radioactive Decay)
+﻿Gale Crater-தளப் பாறைகள் 
+Sediment Rocks-படிமானப் பாறைகள்  
+Mars Science Lab Dy Project Scientist NASA-ஜாய் கிரிஸ்ப் 
+Mound at the center of Gale Crater-செவ்வாய்த் தளவுளவி இறங்கப்ப போகும் மையக் கேல் ஆழ்பள்ளப் பீடம்  
+Grand Canyon-அமெரிக்க கிராண்ட் கெனியன் 
+பூதளவியல் நிபுணர்  National Air & Space Museum-ஜேம்ஸ் ஸிம்பல்மன் 
+High Quality Telemetry-உச்சத் தரமான தொலை அளப்பு மூலம் 
+செவ்வாய் ஈர்ப்பில்-தளவூர்தி 
+Mission Mars Exploration Program at JPL-ஃபியூக் லி 
+Mission Manager, NASA Jet Propulsion Lab-மைக்கேல் வாட்கின்ஸ் 
+German Astronomer Johannes Kepler-ஜொஹானஸ் கெப்ளர் 
+Buzz Aldrin-அமெரிக்க விண்வெளி விமானி பஸ் ஆல்டிரின் 
+William Boynton-வில்லியம் பாயின்டன், 
+Mars Science Laboratory, MSL Curiosity-செவ்வாய்க் கோள் விஞ்ஞான ஆய்வு ஊர்தி” 
+Gale Crater-கேல் ஆழ்பள்ளம் 
+Climate-பருவ நிலை 
+Geology-செவ்வாய்க் கோளின் தளவியல் 
+Airbag Cushion Balls-காற்றடைத்த பந்துக் கொத்தில் 
+Retro Rocket-எதிரியக்கு ராக்கெட் 
+Sky Crane-வான் கீழிறக்கி” 
+Biological Processes-உயிரியல் பண்பாடுகளை 
+Plutonium 238 Radioactive Decay-பல்துறைப் பயண கதிரியக்க உலோகத்தின் மின்கலம் 

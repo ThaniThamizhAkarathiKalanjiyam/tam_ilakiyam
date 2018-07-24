@@ -1,34 +1,34 @@
-﻿தேவிபிரசாத் கார்னிக்  (Director of Indian Space Research Organization)
-அஜய் லேலி (Space Expert, Institute of  Defense & Security Analysis, New Delhi)
-தனித்துவச் சோதனை (Unique Bi-Static Experiment)
-நிலவைச் சுற்றும் இரண்டு விண்ணுளவிகள் (சந்திரயான்-1  & நாசாவின் LRO நிலவு விண்ணுளவுச் சுற்றி)
-தூரத்து உளவு செய்வதில் (Remote Sensing)
-கடினமான அந்தச் சோதனையை (Bi-Static Experiment)
-ஸ்டீவர்ட் நாஸெட் (Srewart Nozette NASA Mini-RF Principal Investigator, LRO)
-துருவத் துணைக்கோள் அனுப்பும் ராக்கெட்டில் (Indian Polar Satellite Launch Vehicle)
-குற்றாரம் [300  mile Perigee]
-நீளாரம் [48000 mile Apogee]
-GSLV -III (Geosynchronous Satellite Launching Vehicle III)
-புவிச் சுற்றிணைப்பில் நிலைமாறும் சுழல்வீதியில்  (Geosynchronous Transfer Orbit)
-ராக்கெட் எஞ்சின் பூஸ்டர்கள் (Boosters : விரைவூக்கிகள்)
-GSLV -III (Geosynchronous Satellite Launching Vehicle III)
-பூஜிய பூரண உஷ்ண எஞ்சின்”  (Russian Cryogenic Engine)
-PSLV (Polar Satellite Launch Vehicle)
-கிரியோஜெனிக் எஞ்சின் (Cryogenic Engine)
-துருவ வட்டவீதி (Polar Orbit)
-புவியிணைப்புச் சுற்றுவீதியில்” (Geosynchronous Orbit)
-ஈசா எனப்படும் ஐரோப்பாவின் பதினேழு கூட்டு நாடுகளின் விண்வெளி ஆய்வகமும் [European Space Agency (ESA)
-நாசாவின் நிலவு விண்ணுளவி (Lunar Reconnaissance Orbiter -LRO)
-இரட்டை நிலைநோக்குச் சோதனை’ (Bi-Static Experiment)
-நுண்ணலை ரேடியோ அதிர்வுக் கருவிகள்” (Miniature Radio Frequency Instrument: Mini-RF)
-தாரகை நோக்கிக்” (Star Sensor)
-துணைக்கோள் நேர்மைப்பாடுக் கருவியையும் ஏரியல் கம்பியையும் (Sensors of Gyroscopes & Antenna)
-பனிப்படிவு இரட்டை நிலைநோக்குச் சோதனை (Bi-Static Experiment)
-சந்திரயானும் நாசாவின் நிலவு விண்ணுளவுச் சுற்றி (Lunar Reconnaissance Orbiter -LRO)
-அவற்றின் இரு உளவுக் கருவிகளும் (Mini Radio Frequency Instrument -Mini-RF)
-பனிப்படிவு இருப்பைக் கண்டு தமது ரேடார்க் (Synthetic Aperture Radars -SAR)
-ஹீலியம்-3 ஏகமூல வாயு (Helium-3 -An Isotope of Helium-4 Gas)
-இந்திய விண்வெளி ஆய்வகத்தின் (ISRO)
-இரண்டாவது சந்திராயன் (Chandrayaan -2)
-தளவுளவியையும், வாகனத்தையும் (A Lander & Rover)
-தளவுளவி, வாகன (Lunar Lander & Rover)
+﻿Director of Indian Space Research Organization-தேவிபிரசாத் கார்னிக்  
+Space Expert, Institute of  Defense & Security Analysis, New Delhi-அஜய் லேலி 
+Unique Bi Static Experiment-தனித்துவச் சோதனை 
+சந்திரயான் 1  & நாசாவின் LRO நிலவு விண்ணுளவுச் சுற்றி-நிலவைச் சுற்றும் இரண்டு விண்ணுளவிகள் 
+Remote Sensing-தூரத்து உளவு செய்வதில் 
+Bi Static Experiment-கடினமான அந்தச் சோதனையை 
+Srewart Nozette NASA Mini RF Principal Investigator, LRO-ஸ்டீவர்ட் நாஸெட் 
+Indian Polar Satellite Launch Vehicle-துருவத் துணைக்கோள் அனுப்பும் ராக்கெட்டில் 
+300  mile Perigee-குற்றாரம் 
+48000 mile Apogee-நீளாரம் 
+Geosynchronous Satellite Launching Vehicle III-GSLV III 
+Geosynchronous Transfer Orbit-புவிச் சுற்றிணைப்பில் நிலைமாறும் சுழல்வீதியில்  
+Boosters : விரைவூக்கிகள்-ராக்கெட் எஞ்சின் பூஸ்டர்கள் 
+Geosynchronous Satellite Launching Vehicle III-GSLV III 
+Russian Cryogenic Engine-பூஜிய பூரண உஷ்ண எஞ்சின்”  
+Polar Satellite Launch Vehicle-PSLV 
+Cryogenic Engine-கிரியோஜெனிக் எஞ்சின் 
+Polar Orbit-துருவ வட்டவீதி 
+Geosynchronous Orbit-புவியிணைப்புச் சுற்றுவீதியில்” 
+European Space Agency ESA-ஈசா எனப்படும் ஐரோப்பாவின் பதினேழு கூட்டு நாடுகளின் விண்வெளி ஆய்வகமும் 
+Lunar Reconnaissance Orbiter LRO-நாசாவின் நிலவு விண்ணுளவி 
+Bi Static Experiment-இரட்டை நிலைநோக்குச் சோதனை’ 
+Miniature Radio Frequency Instrument: Mini RF-நுண்ணலை ரேடியோ அதிர்வுக் கருவிகள்” 
+Star Sensor-தாரகை நோக்கிக்” 
+Sensors of Gyroscopes & Antenna-துணைக்கோள் நேர்மைப்பாடுக் கருவியையும் ஏரியல் கம்பியையும் 
+Bi Static Experiment-பனிப்படிவு இரட்டை நிலைநோக்குச் சோதனை 
+Lunar Reconnaissance Orbiter LRO-சந்திரயானும் நாசாவின் நிலவு விண்ணுளவுச் சுற்றி 
+Mini Radio Frequency Instrument Mini RF-அவற்றின் இரு உளவுக் கருவிகளும் 
+Synthetic Aperture Radars SAR-பனிப்படிவு இருப்பைக் கண்டு தமது ரேடார்க் 
+Helium 3 An Isotope of Helium 4 Gas-ஹீலியம் 3 ஏகமூல வாயு 
+ISRO-இந்திய விண்வெளி ஆய்வகத்தின் 
+Chandrayaan 2-இரண்டாவது சந்திராயன் 
+A Lander & Rover-தளவுளவியையும், வாகனத்தையும் 
+Lunar Lander & Rover-தளவுளவி, வாகன 

@@ -1,32 +1,32 @@
-﻿பரிதியின் உட்கருக் காந்த ஜெனனி   [Sun s Inner Magnetic Dynamo]
-டாடு ஹோக்சீமா [Todd Hoeksema, Solar Physicist, Stanford University]
-பரிதி உச்சம்  [Solar Max]
-பிலிப்ஸ் செர்ரர்  [Philips Scherrer,  Solar Physicist, Stanford University]
-சூரிய மண்டலத்தில் பரிதியில் வடுக்கள் [Sunspots]
-அகிலக்கதிர்களும் [Cosmic Rays]
-பரிதியின் இரு கோளங்கள் [Lower and Upper Spheres]
-சீரற்றுப் போய் [Out of synch]
-பரிதி உச்சம்  [Solar Max]
-காந்தத் துருவத் திருப்பம் (Solar Cycle 24)
-பரிதி வடுக்கள் (Sunspots)
-நோவா விஞ்ஞானி டக்லஸ் பைசேக்கர் முன்னறிப்பு (Douglas Biesecker NOAA National Oceanic & Atmospheric Administration)
-டாக்டர் கொன்ராடு லௌடன்பாச்சர் (Conrad Lautenbacher Junior)
-ஒற்றைச் செல் உயிர் ஜந்துகள் (Single-celled Organisms)
-பரிதிச் சுழல் நிகழ்ச்சி 24 (Solar Cycle 24)
-நோவாவின் விண்வெளிச் சூழ்நிலை மையம் (NOAA’s Space Environment Center)
-அண்ட வெளிக் காலநிலை (Space Weather)
-கனல் நாக்குகள்” (Solar Flares)
-வாயுக் கனல் உமிழும் அகண்ட வெடிப்புகள் (Vast Explosions Known as Coronal Mass Ejections)
-அதி தீவிர ஒளித் துகள் களையும் (Energetic Photons)
-மின்கொடை மிகுந்து முறுக்கேறிய பிண்டங்களையும் (Highly Charged Matter)
-பூமியின் அயனிக் கோளத்துக்கு (Ionoshere)
-பூகோளக் காந்த தளத்திற்கு (Geomagnetic Field)
-மின்சக்தி பரிமாற்ற இணைப்பு ஏற்பாட்டில் (Power Grid)
-பூகோள இடக்குறிப்பீடு நோக்குச் சமிக்கைகள் (Global Positioning System Signals)
-தீங்கிழைக்கும் கதிர்வீச்சுத் தாக்கப் பட்டுப் (Harmful Radiations)
-வண்ணொளிக் கோலங்களுக்கு (Colourful Aurora)
-ஜெர்மன் விஞ்ஞானி சாமுவெல் ஹென்ரிச் சுவாபே (Samuel Henrich Schwabe)
-அமெரிக்க வானியல் விஞ்ஞானி ஜியார்ஜ் எல்லெரி ஹேல் (GeorgeEllery Hale)
-பரிதி மத்தியக் கோட்டு இணையாக (Parallel to the Sun’s Equator)
-பரிதி வடுக்கள் நீச்ச அளவில் (Maunder Minimum)
-இருந்ததை பிரிட்டிஷ் வானியல் விஞ்ஞானி வால்டர் மௌண்டர் (Walter Maunder)
+﻿Sun s Inner Magnetic Dynamo-பரிதியின் உட்கருக் காந்த ஜெனனி   
+Todd Hoeksema, Solar Physicist, Stanford University-டாடு ஹோக்சீமா 
+Solar Max-பரிதி உச்சம்  
+Philips Scherrer,  Solar Physicist, Stanford University-பிலிப்ஸ் செர்ரர்  
+Sunspots-சூரிய மண்டலத்தில் பரிதியில் வடுக்கள் 
+Cosmic Rays-அகிலக்கதிர்களும் 
+Lower and Upper Spheres-பரிதியின் இரு கோளங்கள் 
+Out of synch-சீரற்றுப் போய் 
+Solar Max-பரிதி உச்சம்  
+Solar Cycle 24-காந்தத் துருவத் திருப்பம் 
+Sunspots-பரிதி வடுக்கள் 
+Douglas Biesecker NOAA National Oceanic & Atmospheric Administration-நோவா விஞ்ஞானி டக்லஸ் பைசேக்கர் முன்னறிப்பு 
+Conrad Lautenbacher Junior-டாக்டர் கொன்ராடு லௌடன்பாச்சர் 
+Single celled Organisms-ஒற்றைச் செல் உயிர் ஜந்துகள் 
+Solar Cycle 24-பரிதிச் சுழல் நிகழ்ச்சி 24 
+NOAA’s Space Environment Center-நோவாவின் விண்வெளிச் சூழ்நிலை மையம் 
+Space Weather-அண்ட வெளிக் காலநிலை 
+Solar Flares-கனல் நாக்குகள்” 
+Vast Explosions Known as Coronal Mass Ejections-வாயுக் கனல் உமிழும் அகண்ட வெடிப்புகள் 
+Energetic Photons-அதி தீவிர ஒளித் துகள் களையும் 
+Highly Charged Matter-மின்கொடை மிகுந்து முறுக்கேறிய பிண்டங்களையும் 
+Ionoshere-பூமியின் அயனிக் கோளத்துக்கு 
+Geomagnetic Field-பூகோளக் காந்த தளத்திற்கு 
+Power Grid-மின்சக்தி பரிமாற்ற இணைப்பு ஏற்பாட்டில் 
+Global Positioning System Signals-பூகோள இடக்குறிப்பீடு நோக்குச் சமிக்கைகள் 
+Harmful Radiations-தீங்கிழைக்கும் கதிர்வீச்சுத் தாக்கப் பட்டுப் 
+Colourful Aurora-வண்ணொளிக் கோலங்களுக்கு 
+Samuel Henrich Schwabe-ஜெர்மன் விஞ்ஞானி சாமுவெல் ஹென்ரிச் சுவாபே 
+GeorgeEllery Hale-அமெரிக்க வானியல் விஞ்ஞானி ஜியார்ஜ் எல்லெரி ஹேல் 
+Parallel to the Sun’s Equator-பரிதி மத்தியக் கோட்டு இணையாக 
+Maunder Minimum-பரிதி வடுக்கள் நீச்ச அளவில் 
+Walter Maunder-இருந்ததை பிரிட்டிஷ் வானியல் விஞ்ஞானி வால்டர் மௌண்டர் 

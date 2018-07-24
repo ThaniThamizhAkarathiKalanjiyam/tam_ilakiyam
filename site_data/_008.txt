@@ -1,16 +1,16 @@
-﻿பூர்வப்படிவு எரிசக்தி யூட்டிகள் [Fossil Fuels]
-பேரளவு இயல்பு எரிவாயு [Natural Gas]
-இழப்பு [Risk]
-அணுமின்சக்தி உற்பத்தித் துறையில் விபத்து எதிர்பார்ப்புகள் [Risks]
-டோமோகோ முராகமி [அணுமின்சக்தி ஆய்வாளி, எரிசக்திச் சிக்கனப் பொறித்துறை ஆய்வகம், ஜப்பான்]
-சென்டை அணுமின் நிலையம் Unit : 1 [Sendai Nuclear Power Plant]
-அது கியூஷு மின்சார ஆற்றல் கம்பேனியைச் [Kyusu Electric Power Company]
-மிக்கேயில் கார்பசாவ் [Mikhail Gorbachev (Aug 18, 1986)]
-இயற்கை விஞ்ஞானப் பதிப்பு [Nature]
-அமெரிக்க அணுசக்திப் பேரவைக் கணிப்பு [US Atomic Energy Commission Brookhaven Report (1957)]
-தாமஸ் ஹார்டி [Thomas Hardy]
-அணு உலை எருக்கோல்களின் மிச்ச வெப்பத்தைத் (Residual Heat of the Shutdown Fuel Rods)
-ீரில் மூழ்காத எருக்கோல்களின் உஷ்ணம் மிகையாகி அவற்றின் கவச ஸிர்கோனியம் (Zirconium Fuel Sheath)
-வளைய (Torus)
-தொகூக்கு மின்சார வாரியத்தின் (Tohuku Electric Power Co)
-அகில நாட்டு அணுவியல் துறைப் பேரவை (International Atomic Energy Agency – IAEA)
+﻿Fossil Fuels-பூர்வப்படிவு எரிசக்தி யூட்டிகள் 
+Natural Gas-பேரளவு இயல்பு எரிவாயு 
+Risk-இழப்பு 
+Risks-அணுமின்சக்தி உற்பத்தித் துறையில் விபத்து எதிர்பார்ப்புகள் 
+அணுமின்சக்தி ஆய்வாளி, எரிசக்திச் சிக்கனப் பொறித்துறை ஆய்வகம், ஜப்பான்-டோமோகோ முராகமி 
+Sendai Nuclear Power Plant-சென்டை அணுமின் நிலையம் Unit : 1 
+Kyusu Electric Power Company-அது கியூஷு மின்சார ஆற்றல் கம்பேனியைச் 
+Mikhail Gorbachev Aug 18, 1986-மிக்கேயில் கார்பசாவ் 
+Nature-இயற்கை விஞ்ஞானப் பதிப்பு 
+US Atomic Energy Commission Brookhaven Report 1957-அமெரிக்க அணுசக்திப் பேரவைக் கணிப்பு 
+Thomas Hardy-தாமஸ் ஹார்டி 
+Residual Heat of the Shutdown Fuel Rods-அணு உலை எருக்கோல்களின் மிச்ச வெப்பத்தைத் 
+Zirconium Fuel Sheath-ீரில் மூழ்காத எருக்கோல்களின் உஷ்ணம் மிகையாகி அவற்றின் கவச ஸிர்கோனியம் 
+Torus-வளைய 
+Tohuku Electric Power Co-தொகூக்கு மின்சார வாரியத்தின் 
+International Atomic Energy Agency  IAEA-அகில நாட்டு அணுவியல் துறைப் பேரவை 

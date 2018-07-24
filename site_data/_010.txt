@@ -1,19 +1,19 @@
-﻿பேராசிரியர் அதனாஸ் தஸேவ் (Bulgarian Nuclear Forum, Energy Expert)
-ஓய்வு முறைப்பாடு (Active & Passive Emergency Coolant Systems)
-தாங்கிக் கொள்ளும் கும்பாவும் (Fuel Rods Melt Trap)
-லியோனிட் போல்ஸோவ் (Director, Institute of Safe Development of Nuclear Power Industry)
-ரஷ்யாவின் ரோஸாட்டம் குழு (Rosatom Group)
-செர்கி நோவிகோவ் (Sergei Novikov, Head of Communication at Rosatom)
-விலாடிமிர் குபரேவ் (Vladimir Gubarev, Chernobyl Burial Drama Author)
-கதிரியக்கப் பிளவுத் துணுக்குகள் (Radioactive Fission Products)
-அகில நாட்டு அணுவியல் பேரவை (IAEA)
-கதிரியக்க வெளியேற்றம் கவசத்தாலும், கட்டுப்பாடாலும் கூடியவரைக் குறைக்கப் படுவது (Mitigation of Radioactive Releases)
-கதிரியக்கம் கசியும் பிளவுகள் அடைக்கப் பட்டு கதிர்வீச்சுக் கவசங்கள் (Radiation Shieldings)
-நீர் வெள்ளம் கதிரியக்கக் கழிவுச் சுத்தீகரிப்பு ஏற்பாட்டின் (Radioctive Waste Water Treament Facility)
-குளிர்க் கலன்களுக்கு (Condensers)
-டெப்கோ (Tepco -Tokyo Electric Power Company)
-ஜப்பான் தேச அணுசக்திக் கட்டுப்பாடு ஆணையகமும், அணுசக்தித் தொழில் பாதுகாப்பு நிறுவகமும் (NISA)
-டெரா பெக்குவரல் (tera-becquerels)
-புகுஷிமா அணுமின் உலைகளின் உரிமை நிறுவகம் டெப்கோ (Tokyo Electric Power Company -TEPCO)
-ஏறிய உயர்நிலைக் கதிர்வீச்சு (High Level Radition)
-கடல் பெரு வெள்ளத்தில் நீர்த்துப் போய் சிறுப்பதால் (Diluted Profusely)
+﻿Bulgarian Nuclear Forum, Energy Expert-பேராசிரியர் அதனாஸ் தஸேவ் 
+Active & Passive Emergency Coolant Systems-ஓய்வு முறைப்பாடு 
+Fuel Rods Melt Trap-தாங்கிக் கொள்ளும் கும்பாவும் 
+Director, Institute of Safe Development of Nuclear Power Industry-லியோனிட் போல்ஸோவ் 
+Rosatom Group-ரஷ்யாவின் ரோஸாட்டம் குழு 
+Sergei Novikov, Head of Communication at Rosatom-செர்கி நோவிகோவ் 
+Vladimir Gubarev, Chernobyl Burial Drama Author-விலாடிமிர் குபரேவ் 
+Radioactive Fission Products-கதிரியக்கப் பிளவுத் துணுக்குகள் 
+IAEA-அகில நாட்டு அணுவியல் பேரவை 
+Mitigation of Radioactive Releases-கதிரியக்க வெளியேற்றம் கவசத்தாலும், கட்டுப்பாடாலும் கூடியவரைக் குறைக்கப் படுவது 
+Radiation Shieldings-கதிரியக்கம் கசியும் பிளவுகள் அடைக்கப் பட்டு கதிர்வீச்சுக் கவசங்கள் 
+Radioctive Waste Water Treament Facility-நீர் வெள்ளம் கதிரியக்கக் கழிவுச் சுத்தீகரிப்பு ஏற்பாட்டின் 
+Condensers-குளிர்க் கலன்களுக்கு 
+Tepco Tokyo Electric Power Company-டெப்கோ 
+NISA-ஜப்பான் தேச அணுசக்திக் கட்டுப்பாடு ஆணையகமும், அணுசக்தித் தொழில் பாதுகாப்பு நிறுவகமும் 
+tera becquerels-டெரா பெக்குவரல் 
+Tokyo Electric Power Company TEPCO-புகுஷிமா அணுமின் உலைகளின் உரிமை நிறுவகம் டெப்கோ 
+High Level Radition-ஏறிய உயர்நிலைக் கதிர்வீச்சு 
+Diluted Profusely-கடல் பெரு வெள்ளத்தில் நீர்த்துப் போய் சிறுப்பதால் 

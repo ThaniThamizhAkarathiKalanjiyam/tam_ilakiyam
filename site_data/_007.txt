@@ -1,28 +1,28 @@
-﻿நாசாவின் ராக்கெட் வானிறக்கி (Rocket Sky Crane)
-உச்சத் தரமான தொலை அளப்பு மூலம் (High Quality Telemetry)
-தளவூர்தி (செவ்வாய் ஈர்ப்பில்)
-ஃபியூக் லி (Mission Mars Exploration Program at JPL)
-விண்வெளிக் கப்பல்கள் Reconnaissance Orbiter)
-மைக்கேல் வாட்கின்ஸ் (Mission Manager, NASA Jet Propulsion Lab)
-ஜொஹானஸ் கெப்ளர் [German Astronomer Johannes Kepler]
-அமெரிக்க விண்வெளி விமானி பஸ் ஆல்டிரின் (Buzz Aldrin)
-ஆர்கானி மூலக்கூறுகளைச் சிதைக்கும் பிரிப்பான்களைத்  (Oxidants)
-வில்லியம் பாயின்டன், [William Boynton]
-முற்போக்கான செவ்வாய் விஞ்ஞான ஆய்வு வாகனம்  (Mars Science Laboratory, Curiosity)
-பிளாரிடா கனாவரல் முனையிலிருந்து (Cape Canaveral, Florida)
-பருவ நிலை (Climate)
-செவ்வாய்க் கோளின் தளவி (Geology)
-செவ்வாய்க் கண்காணிப்பு விண்சுற்றி (NASAs Mars Reconnaissance Orbiter)
-தள வாகனங்கள் அனைத்தும் காற்றடைத்த பந்துக் கொத்தில் (Airbag Cushion Balls)
-ஹெலிகாப்டரில் சாதனம் இறக்கும் வானிறக்கு முறையில்  (Sky Crane Lowering)
-எதிரியக்கு ராக்கெட்  (Retro-Rocket)
-வான் கீழிறக்கி  (Sky Crane)
-உயிரியல் பண்பாடுகள (Biological Processes)
-செவ்வாய்த் தளத்தில் தளக் கதிர்வீச்சு - Surface Radiation
-காலாக்ஸி கதிர்வீச்சு Cosmic Radiation
-அகிலக் கதிர்வீச்சு Surface Radiation 
-பரிதி புரோட்டான் நிகழ்ச்சிகள் Galactic Radiation
-இரண்டாம் பிறப்பு நியூட்ரான்கள் Solar Proton Events & Secondary Neutrons
-தனித்தனித் திருப்பி மோட்டார்  (Steering Motor)
-பல்துறைப் பயண கதிரியக்க உலோகத்தின் மின்கலம் (Plutonium-238 Radioactive Decay)
-வானிறக்கு முறை (Sky Crane Descent)
+﻿Rocket Sky Crane-நாசாவின் ராக்கெட் வானிறக்கி 
+High Quality Telemetry-உச்சத் தரமான தொலை அளப்பு மூலம் 
+செவ்வாய் ஈர்ப்பில்-தளவூர்தி 
+Mission Mars Exploration Program at JPL-ஃபியூக் லி 
+Reconnaissance Orbiter-விண்வெளிக் கப்பல்கள் 
+Mission Manager, NASA Jet Propulsion Lab-மைக்கேல் வாட்கின்ஸ் 
+German Astronomer Johannes Kepler-ஜொஹானஸ் கெப்ளர் 
+Buzz Aldrin-அமெரிக்க விண்வெளி விமானி பஸ் ஆல்டிரின் 
+Oxidants-ஆர்கானி மூலக்கூறுகளைச் சிதைக்கும் பிரிப்பான்களைத்  
+William Boynton-வில்லியம் பாயின்டன், 
+Mars Science Laboratory, Curiosity-முற்போக்கான செவ்வாய் விஞ்ஞான ஆய்வு வாகனம்  
+Cape Canaveral, Florida-பிளாரிடா கனாவரல் முனையிலிருந்து 
+Climate-பருவ நிலை 
+Geology-செவ்வாய்க் கோளின் தளவி 
+NASAs Mars Reconnaissance Orbiter-செவ்வாய்க் கண்காணிப்பு விண்சுற்றி 
+Airbag Cushion Balls-தள வாகனங்கள் அனைத்தும் காற்றடைத்த பந்துக் கொத்தில் 
+Sky Crane Lowering-ஹெலிகாப்டரில் சாதனம் இறக்கும் வானிறக்கு முறையில்  
+Retro Rocket-எதிரியக்கு ராக்கெட்  
+Sky Crane-வான் கீழிறக்கி  
+Biological Processes-உயிரியல் பண்பாடுகள 
+Surface Radiation   -செவ்வாய்த் தளத்தில் தளக் கதிர்வீச்சு   
+Cosmic Radiation   -காலாக்ஸி கதிர்வீச்சு 
+Surface Radiation   -அகிலக் கதிர்வீச்சு 
+Galactic Radiation  -பரிதி புரோட்டான் நிகழ்ச்சிகள் 
+Solar Proton Events & Secondary Neutrons -இரண்டாம் பிறப்பு நியூட்ரான்கள் 
+Steering Motor-தனித்தனித் திருப்பி மோட்டார்  
+Plutonium 238 Radioactive Decay-பல்துறைப் பயண கதிரியக்க உலோகத்தின் மின்கலம் 
+Sky Crane Descent-வானிறக்கு முறை 

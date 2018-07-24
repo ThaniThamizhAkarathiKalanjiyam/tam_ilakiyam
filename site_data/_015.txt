@@ -1,38 +1,38 @@
-﻿மைக்கேல் பெரிஸ் அயூகர்  (ESA European Space Astronomy Centre ESAC)
-சூரியனைச் சுக்கிரன் கடக்கும் போது பூதள விண்ணோக்கிகளின் பதிவுகளையும் வெள்ளி வேக விண்கப்பல் (Venus Express Spacecraft)
-ஹேகன் சுவேதம்  (ESA Venus Express Project Scientist)
-முகில் கோளத்தின் நகர்ச்சி அமுக்கத்தைத் (Transport of Momentum)
-சுக்கிரன் சூழ்வெளி அசுர ஓட்டத்தின் மூல காரணத்தை (Origin of the Super-Rotation of Atmosphere)
-முரண் இணைப்பை (Mismatch)
-டிமிட்ரி டிடாவ் (Dmitriy Totov, Max Plank Institute for Solar Research in Germany)
-டேவிட் கிராஸ்ஸி (Scientist IFSI-INAF, Rome)
-அகில நாட்டுப் பேரவை (2010 International Venus Conference at Aussois, France)
-ஹேகன் ஸ்வேதம் (Hakan Svedhem)
-புறச் சூரியக் கோளின் (Extrasolar Planet)
-மார்க் ஸ்வைன் நாசா ஜெட் உந்துசக்தி ஆய்வகம் (Mark Swain, NASA Jet Propulsion Lab, USA)
-சனிக் கோளின் துணைக்கோள் டிடான் (Titan)
-சுழழும் சூழ்வெளி முகில் மண்டலத்தைக் (Super-Rotating Atmospheric Cloud)
-லாஸ் ஏஞ்சலஸ் ஹாலிவுட் குன்றில் உள்ள கிரிஃபித் விண்ணோக்கி (Griffith Observatory)
-புறக்கோள் (Exoplanets)
-வேகக் கப்பல் (Venus Express)
-வீனஸ் எக்ஸ்பிரஸ் (Venus Express)
-மார்ஸ் எக்ஸ்பிரஸ்ஸை (Mars Express)
-பொதுச் சுற்று மாடலை’ (General Circulation Model -GCM)
-சனிக்கோளின் துணைக்கோள் டிடானிலும் (Titan)
-அசுர வேகத்தில்’ (Super-rotation of Venus Atmosphere)
-சனிக்கோளின் துணைக் கோளான டிடான (Titan Moon)
-ஹெக்டர் ஜேவியர் துரன்ட்-மந்தரோலா (Hector Javier Durand-Manterola)
-அயனோஸ்ஃபியரின் ஒலிவேகத்தை மிஞ்சிய வாயு மண்டலத்தைப் பற்றி (Supersonic-Speed Winds in the Ionosphere)
-கடப்பு முடிவு’ வாயு ஓட்டம் (Trans-terminator Flow)
-முன்னோடிச் சுக்கிரன் சுற்றுளவி’ (Pioneer Venus Orbiter)
-துரன்ட்-மந்தரோலாவின் குழுவினர் கிரையோஸ்·பியர் (Cryosphere)
-அயனிக் கோளம் (Ionosphere)
-சுக்கிரனின் தள அழுத்தம் 100 பூவழுத்தம் [Earth atmosphere]
-கரியின் ஆக்ஸைடு [Carbon dioxide]
-97%, நைட்ரஜன் 2%, மற்ற முடவாயுக்கள் [Inert Gases]
-1%, பிராண வாயு 0.4%, ஆவிநீர் [Water Vapour]
-சுழற்சி [Spin]
-சுழல்வீதிக் காலமும் [Orbital Periods]
-பூமியின் சுழல்வீதியுடன் சீரிணைப்பில் இயங்கி [Synchronized]
-ஈரோப்பிய விண்வெளி ஆணையகம் [European Spce Agency (ESA)]
-ரஷ்யன் சோயஸ் ராக்கெட்டில் அனுப்பிய வீனஸ் எக்ஸபிரஸ் (Venus Express)
+﻿ESA European Space Astronomy Centre ESAC-மைக்கேல் பெரிஸ் அயூகர்  
+Venus Express Spacecraft-சூரியனைச் சுக்கிரன் கடக்கும் போது பூதள விண்ணோக்கிகளின் பதிவுகளையும் வெள்ளி வேக விண்கப்பல் 
+ESA Venus Express Project Scientist-ஹேகன் சுவேதம்  
+Transport of Momentum-முகில் கோளத்தின் நகர்ச்சி அமுக்கத்தைத் 
+Origin of the Super Rotation of Atmosphere-சுக்கிரன் சூழ்வெளி அசுர ஓட்டத்தின் மூல காரணத்தை 
+Mismatch-முரண் இணைப்பை 
+Dmitriy Totov, Max Plank Institute for Solar Research in Germany-டிமிட்ரி டிடாவ் 
+Scientist IFSI INAF, Rome-டேவிட் கிராஸ்ஸி 
+2010 International Venus Conference at Aussois, France-அகில நாட்டுப் பேரவை 
+Hakan Svedhem-ஹேகன் ஸ்வேதம் 
+Extrasolar Planet-புறச் சூரியக் கோளின் 
+Mark Swain, NASA Jet Propulsion Lab, USA-மார்க் ஸ்வைன் நாசா ஜெட் உந்துசக்தி ஆய்வகம் 
+Titan-சனிக் கோளின் துணைக்கோள் டிடான் 
+Super Rotating Atmospheric Cloud-சுழழும் சூழ்வெளி முகில் மண்டலத்தைக் 
+Griffith Observatory-லாஸ் ஏஞ்சலஸ் ஹாலிவுட் குன்றில் உள்ள கிரிஃபித் விண்ணோக்கி 
+Exoplanets-புறக்கோள் 
+Venus Express-வேகக் கப்பல் 
+Venus Express-வீனஸ் எக்ஸ்பிரஸ் 
+Mars Express-மார்ஸ் எக்ஸ்பிரஸ்ஸை 
+General Circulation Model GCM-பொதுச் சுற்று மாடலை’ 
+Titan-சனிக்கோளின் துணைக்கோள் டிடானிலும் 
+Super rotation of Venus Atmosphere-அசுர வேகத்தில்’ 
+Titan Moon-சனிக்கோளின் துணைக் கோளான டிடான 
+Hector Javier Durand Manterola-ஹெக்டர் ஜேவியர் துரன்ட் மந்தரோலா 
+Supersonic Speed Winds in the Ionosphere-அயனோஸ்ஃபியரின் ஒலிவேகத்தை மிஞ்சிய வாயு மண்டலத்தைப் பற்றி 
+Trans terminator Flow-கடப்பு முடிவு’ வாயு ஓட்டம் 
+Pioneer Venus Orbiter-முன்னோடிச் சுக்கிரன் சுற்றுளவி’ 
+Cryosphere-துரன்ட் மந்தரோலாவின் குழுவினர் கிரையோஸ்·பியர் 
+Ionosphere-அயனிக் கோளம் 
+Earth atmosphere-சுக்கிரனின் தள அழுத்தம் 100 பூவழுத்தம் 
+Carbon dioxide-கரியின் ஆக்ஸைடு 
+Inert Gases-97%, நைட்ரஜன் 2%, மற்ற முடவாயுக்கள் 
+Water Vapour-1%, பிராண வாயு 0.4%, ஆவிநீர் 
+Spin-சுழற்சி 
+Orbital Periods-சுழல்வீதிக் காலமும் 
+Synchronized-பூமியின் சுழல்வீதியுடன் சீரிணைப்பில் இயங்கி 
+European Spce Agency ESA-ஈரோப்பிய விண்வெளி ஆணையகம் 
+Venus Express-ரஷ்யன் சோயஸ் ராக்கெட்டில் அனுப்பிய வீனஸ் எக்ஸபிரஸ் 

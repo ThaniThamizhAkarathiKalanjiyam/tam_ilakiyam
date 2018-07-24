@@ -1,23 +1,23 @@
-﻿பேராசிரியர் அதனாஸ் தஸேவ் (Bulgarian Nuclear Forum, Energy Expert)
-அணுமின் நிலையத்தில் இயக்க முறைப்பாடு, ஓய்வு முறைப்பாடு (Active & Passive Emergency Coolant Systems)
-அத்தோடு வெப்பக் கோல்கள் உருக விட்டால் தாங்கிக் கொள்ளும் கும்பா (Fuel Rods Melt Trap)
-விலாடிமிர் குபரேவ் (Vladimir Gubarev, Chernobyl Burial Drama Author)
-இந்திய அணுமின் நிலையங்களைக் கட்டி வரும் நிறுவகத் தலைமையகம் (Nuclear Power Corporation India Ltd  NPCIL)
-கேரளா பொறியியல் குழுவினர் (Kerala State Centre of The Institution of Engineers India)
-அணுசக்தி நெறிப்பாடு ஆணைய கத்துக்கு (Atomic Energy Regulatory Board  AERB)
-மூன்றாம் பிறப்பு முறைப்பாட்டில்  (Third Generation Design)
-கனல் உலோகத் திரவத்தை ஏந்தி உருக்கை ஏற்றுக் கொள்ள குவளைச் சாதனம் (Core Melt Catcher)
-ஹைடிரஜன் இணைப்பிகள் (Hydrogen Recombiners)
-கூடங்குள அணுமின் நிலையத் திட்டத்தின் பாதுகாப்பு நெறிப்பாடுகள் (Safety Aspects of Kudungulam Power Project)
-கூடங்குள அணுமின் நிலைய தளம்  குன்றிய அபாய எதிர்பார்ப்பு அரங்கம் : 2 இல் (Zone : 2  Low Damage Risk Area)
-நியூட்ரான் விழுங்கி போரான் (Neutron Absorber Boron)
-அத்துடன் வெப்ப வேறுபாட்டாலும், ஈர்ப்பு விசையாலும் மேலும் கீழும் சுற்றும் நீரோட்டம்  (Natural Circulation By Heat & Gravity)
-ஓய்வு வெப்பத் தணிப்பு ஏற்பாடுகள் (Two Passive Heat Removal Systems)
-இரட்டை ஓய்வு வெப்பத் தணிப்பு ஏற்பாடுகள் (Two Passive Heat Removal Systems)
-அணுமின் நிலையம் இயங்குவதற்கு முன்பு இறுதிச் சோதனையாக அபாயப் பாதுகாப்பு பயிற்சிகள் (Emergency Safety Drills)
-விஞ்ஞானி மிசியோ காக்கு (Michio Kaku)
-ஜப்பான் டெப்கோ (Tepco)
-சைனா பேரழிவு விபத்துகள்  (China Syndrome*)
-டோஷீபா நிறுவகம் (Toshiba Corporation)
- ஹிட்டாச்சி நிறுவகம் (Hitachi Corporation)
-பூரணத் தணிப்புலை நிறுத்தம்  (Cold Shutdown State)
+﻿Bulgarian Nuclear Forum, Energy Expert-பேராசிரியர் அதனாஸ் தஸேவ் 
+Active & Passive Emergency Coolant Systems-அணுமின் நிலையத்தில் இயக்க முறைப்பாடு, ஓய்வு முறைப்பாடு 
+Fuel Rods Melt Trap-அத்தோடு வெப்பக் கோல்கள் உருக விட்டால் தாங்கிக் கொள்ளும் கும்பா 
+Vladimir Gubarev, Chernobyl Burial Drama Author-விலாடிமிர் குபரேவ் 
+Nuclear Power Corporation India Ltd  NPCIL-இந்திய அணுமின் நிலையங்களைக் கட்டி வரும் நிறுவகத் தலைமையகம் 
+Kerala State Centre of The Institution of Engineers India-கேரளா பொறியியல் குழுவினர் 
+Atomic Energy Regulatory Board  AERB-அணுசக்தி நெறிப்பாடு ஆணைய கத்துக்கு 
+Third Generation Design-மூன்றாம் பிறப்பு முறைப்பாட்டில்  
+Core Melt Catcher-கனல் உலோகத் திரவத்தை ஏந்தி உருக்கை ஏற்றுக் கொள்ள குவளைச் சாதனம் 
+Hydrogen Recombiners-ஹைடிரஜன் இணைப்பிகள் 
+Safety Aspects of Kudungulam Power Project-கூடங்குள அணுமின் நிலையத் திட்டத்தின் பாதுகாப்பு நெறிப்பாடுகள் 
+Zone : 2  Low Damage Risk Area-கூடங்குள அணுமின் நிலைய தளம்  குன்றிய அபாய எதிர்பார்ப்பு அரங்கம் : 2 இல் 
+Neutron Absorber Boron-நியூட்ரான் விழுங்கி போரான் 
+Natural Circulation By Heat & Gravity-அத்துடன் வெப்ப வேறுபாட்டாலும், ஈர்ப்பு விசையாலும் மேலும் கீழும் சுற்றும் நீரோட்டம்  
+Two Passive Heat Removal Systems-ஓய்வு வெப்பத் தணிப்பு ஏற்பாடுகள் 
+Two Passive Heat Removal Systems-இரட்டை ஓய்வு வெப்பத் தணிப்பு ஏற்பாடுகள் 
+Emergency Safety Drills-அணுமின் நிலையம் இயங்குவதற்கு முன்பு இறுதிச் சோதனையாக அபாயப் பாதுகாப்பு பயிற்சிகள் 
+Michio Kaku-விஞ்ஞானி மிசியோ காக்கு 
+Tepco-ஜப்பான் டெப்கோ 
+China Syndrome*-சைனா பேரழிவு விபத்துகள்  
+Toshiba Corporation-டோஷீபா நிறுவகம் 
+Hitachi Corporation-ஹிட்டாச்சி நிறுவகம்  
+Cold Shutdown State-பூரணத் தணிப்புலை நிறுத்தம்  

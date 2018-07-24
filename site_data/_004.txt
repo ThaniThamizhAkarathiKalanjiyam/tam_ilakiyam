@@ -1,16 +1,16 @@
-﻿அபாய எதிர்பார்ப்புகளை   [Risks]
-விஞ்ஞானப் பொறியியல் எரிசக்தி கண்காணிப்புக் குழு (Group of Concerned Scientists & Engineers for Energy)
-அடுத்தோர் நிலநடுக்க அபாயம் வரும் தருணம் உள்ளது (The Dangers of another Earthquake Remains)
-அணு உலை இயங்கும் போது மீறும் தொடரியக்க [Super Critical Reaction]
-வெடிப்பது அடுத்து கதிரியக்கப் பிளவுத் துணுக்குகள [Fission Fragments]
-வாயுக் கழிவுகளும் கோட்டை அரணிலிருந்து [Containment Structure]
-அமெரிக்க அணுமின் உலையில் வெப்பத் தணிப்பு நீரிழப்பு விபத்து [Loss of Coolant Accident (LOCA)]
-அணு-உலை-ஆண்டுகள் [Reactor-years]
-அபாய விளைவுகள் போன்றவற்றை அடிக்கடி அணு உலை இயக்க உலகக் கூட்டுறவு [World Association of Nuclear Operations (WANO)]
-அணுக்கருவியல் பாதுகாப்பு [Nuclear Safety]
-அணுக்கருப் பண்டப் பயன்பாடு [Nuclear Materials Security]
-அணு ஆயுத எருக் கண்காணிப்பு [Nuclear Safeguards]
-தீய்ந்த எருக்கள் கைவச இருப்பு [Spent Fuel Storage]
-புதைப்பு பற்றிய வினைகளில் தணிக்கை ஆற்றல் உரிமை [Auditor of World Nuclear Safety]
-அகில நாட்டு அணுசக்திப்  பேரவை (IAEA)
-மின்சார அழுத்த மாற்றிகள் -Transformers
+﻿Risks-அபாய எதிர்பார்ப்புகளை   
+Group of Concerned Scientists & Engineers for Energy-விஞ்ஞானப் பொறியியல் எரிசக்தி கண்காணிப்புக் குழு 
+The Dangers of another Earthquake Remains-அடுத்தோர் நிலநடுக்க அபாயம் வரும் தருணம் உள்ளது 
+Super Critical Reaction-அணு உலை இயங்கும் போது மீறும் தொடரியக்க 
+Fission Fragments-வெடிப்பது அடுத்து கதிரியக்கப் பிளவுத் துணுக்குகள 
+Containment Structure-வாயுக் கழிவுகளும் கோட்டை அரணிலிருந்து 
+Loss of Coolant Accident LOCA--அமெரிக்க அணுமின் உலையில் வெப்பத் தணிப்பு நீரிழப்பு விபத்து 
+Reactor years-அணு உலை ஆண்டுகள் 
+World Association of Nuclear Operations WANO--அபாய விளைவுகள் போன்றவற்றை அடிக்கடி அணு உலை இயக்க உலகக் கூட்டுறவு 
+Nuclear Safety-அணுக்கருவியல் பாதுகாப்பு 
+Nuclear Materials Security-அணுக்கருப் பண்டப் பயன்பாடு 
+Nuclear Safeguards-அணு ஆயுத எருக் கண்காணிப்பு 
+Spent Fuel Storage-தீய்ந்த எருக்கள் கைவச இருப்பு 
+Auditor of World Nuclear Safety-புதைப்பு பற்றிய வினைகளில் தணிக்கை ஆற்றல் உரிமை 
+IAEA-அகில நாட்டு அணுசக்திப்  பேரவை 
+Transformers-மின்சார அழுத்த மாற்றிகள் 

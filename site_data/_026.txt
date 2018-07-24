@@ -1,30 +1,30 @@
-﻿அஜய் லேலி (Space Expert, Institute of  Defense & Security Analysis, New Delhi)
-மயில்சாமி அண்ணாத்துரை, சந்திரயான் திட்ட இயக்குநர் (Chandrayaan Project Director)
-இந்த தனித்துவச் சோதனையை (Unique Bi-Static Experiment)
-தூரத்து உளவு செய்வதில் (Remote Sensing)
-கடினமான அந்தச் சோதனையை (Bi-Static Experiment)
-ஸ்டீவர்ட் நாஸெட் (Srewart Nozette NASA Mini-RF Principal Investigator, LRO)
-GSLV -III (Geosynchronous Satellite Launching Vehicle III)
-ரஷ்யாவின்  பூஜிய பூரண உஷ்ண எஞ்சின்   (Russian Cryogenic Engine)
-சந்திரயான் -1 தூக்கிச் செல்ல நடுத்தரம் உடைய  PSLV (Polar Satellite Launch Vehicle)
-இந்தியா PSLV (Polar Satellite Launch Vehicle)
-இந்தியாவுக்கு கிரியோஜெனிக் எஞ்சின் (Cryogenic Engine)
-புவிச் சுற்றிணைப்பில் நிலைமாறும் சுழல்வீதியில்  (Geosynchronous Transfer Orbit)
-துருவ வட்டவீதியில் (Polar Orbit)
-புவியிணைப்புச் சுற்றுவீதியில்” (Geosynchronous Orbit)
-ஈசா எனப்படும் ஐரோப்பாவின் பதினேழு கூட்டு நாடுகளின் விண்வெளி ஆய்வகமும் [European Space Agency (ESA)
-இந்தியத் துணைக்கோள் சந்திராயன் -1, நாசாவின் நிலவு விண்ணுளவி (Lunar Reconnaissance Orbiter -LRO)
-பனிப்படிவு நிலவின் வடதுருவப் பகுதியில் பரிதி ஒளிக்கு மறைவான “எர்லாஞ்சர்” என்னும் ஓர் படுகுழியில் (Erlanger)
-இரட்டை நிலைநோக்குச் சோதனை’ (Bi-Static Experiment)
-நுண்ணலை ரேடியோ அதிர்வுக் கருவிகள்” (Miniature Radio Frequency Instrument: Mini-RF)
-தாரகை நோக்கிக்” (Star Sensor)
-நேர்மைப்பாடுக் கருவியையும் ஏரியல் கம்பியையும் (Sensors of Gyroscopes & Antenna)
-பனிப்படிவு இரட்டை நிலைநோக்குச் சோதனை (Bi-Static Experiment)
-ஆகஸ்டு 20, 2009 ஆம் தேதி சந்திரயானும் நாசாவின் நிலவு விண்ணுளவுச் சுற்றியும் (Lunar Reconnaissance Orbiter -LRO)
-இரு உளவுக் கருவிகளும் (Mini Radio Frequency Instrument -Mini-RF)
-பனிப்படிவு இருப்பைக் கண்டு தமது ரேடார்க் (Synthetic Aperture Radars -SAR)
-ஹீலியம்-3 ஏகமூல வாயு (Helium-3 -An Isotope of Helium-4 Gas)
-இந்திய விண்வெளி ஆய்வகத்தின் (ISRO)
-இரண்டாவது சந்திராயன் (Chandrayaan -2)
-விண்சிமிழ் தன்னுடன் ஒரு தளவுளவியையும், வாகனத்தையும் (A Lander & Rover)
-தளவுளவி, வாகன (Lunar Lander & Rover)
+﻿Space Expert, Institute of  Defense & Security Analysis, New Delhi-அஜய் லேலி 
+Chandrayaan Project Director-மயில்சாமி அண்ணாத்துரை, சந்திரயான் திட்ட இயக்குநர் 
+Unique Bi Static Experiment-இந்த தனித்துவச் சோதனையை 
+Remote Sensing-தூரத்து உளவு செய்வதில் 
+Bi Static Experiment-கடினமான அந்தச் சோதனையை 
+Srewart Nozette NASA Mini RF Principal Investigator, LRO-ஸ்டீவர்ட் நாஸெட் 
+Geosynchronous Satellite Launching Vehicle III-GSLV III 
+Russian Cryogenic Engine-ரஷ்யாவின்  பூஜிய பூரண உஷ்ண எஞ்சின்   
+Polar Satellite Launch Vehicle-சந்திரயான் 1 தூக்கிச் செல்ல நடுத்தரம் உடைய  PSLV 
+Polar Satellite Launch Vehicle-இந்தியா PSLV 
+Cryogenic Engine-இந்தியாவுக்கு கிரியோஜெனிக் எஞ்சின் 
+Geosynchronous Transfer Orbit-புவிச் சுற்றிணைப்பில் நிலைமாறும் சுழல்வீதியில்  
+Polar Orbit-துருவ வட்டவீதியில் 
+Geosynchronous Orbit-புவியிணைப்புச் சுற்றுவீதியில் 
+European Space Agency ESA-ஈசா எனப்படும் ஐரோப்பாவின் பதினேழு கூட்டு நாடுகளின் விண்வெளி ஆய்வகமும் 
+Lunar Reconnaissance Orbiter LRO-இந்தியத் துணைக்கோள் சந்திராயன் 1, நாசாவின் நிலவு விண்ணுளவி 
+Erlanger-பனிப்படிவு நிலவின் வடதுருவப் பகுதியில் பரிதி ஒளிக்கு மறைவான “எர்லாஞ்சர் என்னும் ஓர் படுகுழியில் 
+Bi Static Experiment-இரட்டை நிலைநோக்குச் சோதனை’ 
+Miniature Radio Frequency Instrument: Mini RF-நுண்ணலை ரேடியோ அதிர்வுக் கருவிகள் 
+Star Sensor-தாரகை நோக்கிக் 
+Sensors of Gyroscopes & Antenna-நேர்மைப்பாடுக் கருவியையும் ஏரியல் கம்பியையும் 
+Bi Static Experiment-பனிப்படிவு இரட்டை நிலைநோக்குச் சோதனை 
+Lunar Reconnaissance Orbiter LRO-ஆகஸ்டு 20, 2009 ஆம் தேதி சந்திரயானும் நாசாவின் நிலவு விண்ணுளவுச் சுற்றியும் 
+Mini Radio Frequency Instrument Mini RF-இரு உளவுக் கருவிகளும் 
+Synthetic Aperture Radars SAR-பனிப்படிவு இருப்பைக் கண்டு தமது ரேடார்க் 
+Helium 3 An Isotope of Helium 4 Gas-ஹீலியம் 3 ஏகமூல வாயு 
+ISRO-இந்திய விண்வெளி ஆய்வகத்தின் 
+Chandrayaan 2-இரண்டாவது சந்திராயன் 
+A Lander & Rover-விண்சிமிழ் தன்னுடன் ஒரு தளவுளவியையும், வாகனத்தையும் 
+Lunar Lander & Rover-தளவுளவி, வாகன 
