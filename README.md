@@ -9,7 +9,7 @@
 நிறுவல் முறை:
 ===
 
-- 1. முதலில் [தேவையான சொற்கள் அகராதியை Download](#wiktionary) செய்யவும்
+- 1. முதலில் [தேவையான சொற்கள் அகராதியை Download](#தனித்த தமிழ் அகராதிகள்) செய்யவும்
 - 2. உங்கள் கைப்பேசியில் [அஃக ௨௮ - Download for Android](https://github.com/ThaniThamizhAkarathiKalanjiyam/win_ttak/raw/ttak_apk/ttak_287.apk)	என்ற Android செயலியை நிறுவிக் கொள்ளுங்கள்.
 - 3. பின்னர் கைப்பேசிச் செயலி (அஃக *) யைப் பயன்படுத்துங்கள். 
 - 4. அகராதிக் களஞ்சியம் உங்கள் கைகளில் உள்ளது என நினைக்க மறக்காதீர்கள். இதில் அனைத்து தமிழரின் முயற்சியும், நேரமும் அடங்கி உள்ளது என்பதை நினைத்துப் பாருங்கள்.
@@ -19,10 +19,10 @@
 தனித்த தமிழ் அகராதிகள்
 --
 
-- [தமிழ்-ஆங்கில முழு சொற்களஞ்சியம் | ttak.slob | 21 MB | தமிழ் உலகம்](https://github.com/ThaniThamizhAkarathiKalanjiyam/tam_ilakiyam/raw/master/Dictionaries/ttak.slob)
+- [தமிழ்-ஆங்கில, தமிழ்-தமிழ் முழு சொற்களஞ்சியம் | ttak.slob | 21 MB | தமிழ் உலகம்](https://github.com/ThaniThamizhAkarathiKalanjiyam/tam_ilakiyam/raw/master/Dictionaries/ttak.slob)
 - [அறிவியல் அகராதி: பேரா. அ. கி. மூர்த்தி] (#)
 - [அறிவியல் கலைச்சொல் களஞ்சியம் - மணவை முஸ்தபா] (#)
-- [அணுவியல் கலைச்சொல் களஞ்சியம்: சி. ஜெயபாரதன் B.E.(Hons) P.Eng (Nuclear) கனடா] (#)
+- [அணுவியல் கலைச்சொல் களஞ்சியம் | jayabarathan_wordpress_com.slob | 58KB | சி. ஜெயபாரதன் B.E.(Hons) P.Eng (Nuclear) கனடா](https://github.com/ThaniThamizhAkarathiKalanjiyam/tam_ilakiyam/raw/master/Dictionaries/jayabarathan_wordpress_com.slob)
 - [உணவுக்கலைச்சொற்கள் | pon_saravanan.slob | 266B | திருத்தம் பொன். சரவணன்](https://github.com/ThaniThamizhAkarathiKalanjiyam/tam_ilakiyam/raw/master/Dictionaries/pon_saravanan.slob)
 - [2018 தொகுப்பு - 2018ம் ஆண்டு தொகுப்பு இங்கு இடம் பெறுகின்றன.] (#)
 
