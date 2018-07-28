@@ -1,10 +1,10 @@
 ###################################  
 #Book Name: அறிவியல்அகராதி  
-#Autor: அகி.மூர்த்தி
+#Autor: அகி.மூர்த்தி  
 #label: அகி.மூர்த்தி  பகுதி ஒன்று  
-#source:https://github.com/ThaniThamizhAkarathiKalanjiyam/tam_ilakiyam/tree/ariviyal_akarathi  
 #icense.name: GNU General Public License  
 #license.url:http://www.gnu.org/licenses/gpl.html  
+#source:https://github.com/ThaniThamizhAkarathiKalanjiyam/tam_ilakiyam/tree/ariviyal_akarathi  
 #version.icu:1.1  
 #created.by: பிச்சைமுத்து  
 ###################################  
