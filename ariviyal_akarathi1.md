@@ -1,6 +1,6 @@
 ###################################  
 #Book Name: அறிவியல்அகராதி  
-#Autor: அகி.மூர்த்தி  
+#Author: அகி.மூர்த்தி  
 #label: அகி.மூர்த்தி  பகுதி ஒன்று  
 #icense.name: GNU General Public License  
 #license.url:http://www.gnu.org/licenses/gpl.html  
