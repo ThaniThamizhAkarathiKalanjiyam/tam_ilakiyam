@@ -8,5 +8,5 @@
 
 மிகு விரைவில் அகி மூர்த்தி அவர்களின், அறிவியல் அகராதி களஞ்சியம் வெளியிடப்படுகிறது.
 
-[இதுவரை தொகுத்த சொற்களின் பட்டியல்]()
+[அறிவியல்அகராதி (முழுத்தொகுப்பு)](https://github.com/ThaniThamizhAkarathiKalanjiyam/tam_ilakiyam/blob/ariviyal_akarathi/ariviyal_akarathi_final.md)
 
