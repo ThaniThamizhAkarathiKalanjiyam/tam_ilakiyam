@@ -22,8 +22,8 @@
 --
 
 - [தமிழ்-ஆங்கில, தமிழ்-தமிழ் முழு சொற்களஞ்சியம் | ttak.slob | 21 MB | தமிழ் உலகம்](https://github.com/ThaniThamizhAkarathiKalanjiyam/tam_ilakiyam/raw/master/Dictionaries/ttak.slob)
-- [அறிவியல் அகராதி: பேரா. அ. கி. மூர்த்தி] (#)
-- [அறிவியல் கலைச்சொல் களஞ்சியம் - மணவை முஸ்தபா] (#)
+- [அறிவியல் அகராதி: பேரா. அ. கி. மூர்த்தி](https://github.com/ThaniThamizhAkarathiKalanjiyam/tam_ilakiyam/raw/master/Dictionaries/ariviyal_akarathi.slob)
+- [அறிவியல் கலைச்சொல் களஞ்சியம் (இறுதிப்பகுதி) - மணவை முஸ்தபா](https://github.com/ThaniThamizhAkarathiKalanjiyam/tam_ilakiyam/tree/manavai)
 - [அணுவியல் கலைச்சொல் களஞ்சியம் | jayabarathan_wordpress_com.slob | 58KB | சி. ஜெயபாரதன் B.E.(Hons) P.Eng (Nuclear) கனடா](https://github.com/ThaniThamizhAkarathiKalanjiyam/tam_ilakiyam/raw/master/Dictionaries/jayabarathan_wordpress_com.slob)
 - [உணவுக்கலைச்சொற்கள் | pon_saravanan.slob | 26KB | திருத்தம் பொன். சரவணன்](https://github.com/ThaniThamizhAkarathiKalanjiyam/tam_ilakiyam/raw/master/Dictionaries/pon_saravanan.slob)
 - [2018 தொகுப்பு - 2018ம் ஆண்டு தொகுப்பு இங்கு இடம் பெறுகின்றன.] (#)
