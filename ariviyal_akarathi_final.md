@@ -1,3 +1,14 @@
+###################################  
+#Book Name: அறிவியல்அகராதி  
+#Author: அகி.மூர்த்தி  
+#label: அகி.மூர்த்தி  (முழுத்தொகுப்பு)
+#license.name: GNU General Public License  
+#license.url:http://www.gnu.org/licenses/gpl.html  
+#source:https://github.com/ThaniThamizhAkarathiKalanjiyam/tam_ilakiyam/tree/ariviyal_akarathi  
+#version.icu:1.1  
+#created.by: பிச்சைமுத்து  
+#created.date: 5:37 PM 7/29/2018  
+################################### 
 abactinal -ஆரம் விலகிய ஆரச் சமச்சீருடைய விலங்கில் வாய்க்கு எதிரே உடல் மேற்பரப்பு அமை தல் பா. . (உயி) 
 abaxial -அச்சு விலகிய இலைக் கீழ்ப்பரப்பு. அதாவது பக்கம் தண்டிலிருந்து விலகியிருத்தல். பா. . (உயி) 
 abdomen -வயிறு நடு உடலில் மார்புக்குக் கீழுள்ள அறை. இரைப்பை, குடல் முதலிய உறுப்புகளைக் கொண்டது. (உயி) 
