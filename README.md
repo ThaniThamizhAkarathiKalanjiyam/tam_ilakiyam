@@ -23,6 +23,7 @@
 
 - [தமிழ்-ஆங்கில, தமிழ்-தமிழ் முழு சொற்களஞ்சியம் | ttak.slob | 21 MB | தமிழ் உலகம்](https://github.com/ThaniThamizhAkarathiKalanjiyam/tam_ilakiyam/raw/master/Dictionaries/ttak.slob)
 - [அறிவியல் அகராதி: பேரா. அ. கி. மூர்த்தி] (#)
+- [அறிவியல்அகராதி (முழுத்தொகுப்பு)](https://github.com/ThaniThamizhAkarathiKalanjiyam/tam_ilakiyam/blob/ariviyal_akarathi/ariviyal_akarathi_final.md)
 - [அறிவியல் கலைச்சொல் களஞ்சியம் - மணவை முஸ்தபா] (#)
 - [அணுவியல் கலைச்சொல் களஞ்சியம் | jayabarathan_wordpress_com.slob | 58KB | சி. ஜெயபாரதன் B.E.(Hons) P.Eng (Nuclear) கனடா](https://github.com/ThaniThamizhAkarathiKalanjiyam/tam_ilakiyam/raw/master/Dictionaries/jayabarathan_wordpress_com.slob)
 - [உணவுக்கலைச்சொற்கள் | pon_saravanan.slob | 26KB | திருத்தம் பொன். சரவணன்](https://github.com/ThaniThamizhAkarathiKalanjiyam/tam_ilakiyam/raw/master/Dictionaries/pon_saravanan.slob)
